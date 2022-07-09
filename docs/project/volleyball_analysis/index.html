@@ -1,0 +1,1133 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.4.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Data analysis on the 2019 FIVB Volleyball Women’s Nations League" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://avery7li.github.io/project/volleyball_analysis/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.512574799414e7d36471486881070b0f.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://avery7li.github.io/project/volleyball_analysis/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="Portfolio" />
+  <meta property="og:url" content="https://avery7li.github.io/project/volleyball_analysis/" />
+  <meta property="og:title" content="Volleyball as a Team Sport | Portfolio" />
+  <meta property="og:description" content="Data analysis on the 2019 FIVB Volleyball Women’s Nations League" /><meta property="og:image" content="https://avery7li.github.io/project/volleyball_analysis/featured.jpg" />
+    <meta property="twitter:image" content="https://avery7li.github.io/project/volleyball_analysis/featured.jpg" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-04-01T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-04-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://avery7li.github.io/project/volleyball_analysis/"
+  },
+  "headline": "Volleyball as a Team Sport",
+  
+  "image": [
+    "https://avery7li.github.io/project/volleyball_analysis/featured.jpg"
+  ],
+  
+  "datePublished": "2022-04-01T00:00:00Z",
+  "dateModified": "2022-04-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Authors"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Portfolio",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://avery7li.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Data analysis on the 2019 FIVB Volleyball Women’s Nations League"
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Volleyball as a Team Sport | Portfolio</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="f5ae2479f0c910848800da6931da8c63" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.7e85d6cfe81caeb57cc49452f9b55e03.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Portfolio</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Portfolio</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Volleyball as a Team Sport</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Apr 1, 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/r/">R</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/Avery7Li/JSC370-midterm/tree/master" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>repository</a>
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 480px;">
+  <div style="position: relative">
+    <img src="/project/volleyball_analysis/featured_hud0da6dc494f9c163842949e362514c0b_603252_720x2500_fit_q75_h2_lanczos.webp" width="720" height="480" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+<script src="https://avery7li.github.io/project/volleyball_analysis/index.en_files/htmlwidgets/htmlwidgets.js"></script>
+<script src="https://avery7li.github.io/project/volleyball_analysis/index.en_files/plotly-binding/plotly.js"></script>
+<script src="https://avery7li.github.io/project/volleyball_analysis/index.en_files/typedarray/typedarray.min.js"></script>
+<script src="https://avery7li.github.io/project/volleyball_analysis/index.en_files/jquery/jquery.min.js"></script>
+<link href="https://avery7li.github.io/project/volleyball_analysis/index.en_files/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
+<script src="https://avery7li.github.io/project/volleyball_analysis/index.en_files/crosstalk/js/crosstalk.min.js"></script>
+<link href="https://avery7li.github.io/project/volleyball_analysis/index.en_files/plotly-htmlwidgets-css/plotly-htmlwidgets.css" rel="stylesheet" />
+<script src="https://avery7li.github.io/project/volleyball_analysis/index.en_files/plotly-main/plotly-latest.min.js"></script>
+
+
+<div id="introduction" class="section level2">
+<h2>1. Introduction</h2>
+<p>Volleyball is among the most popular team sports around the world. The players and audience enjoy it because of the strength, sportsmanship, and team collaboration demonstrated in the game. However, one may wonder that, to what extent is volleyball a team sport? In other words, which between a player’s capability and team cooperation contributes more to winning a game?</p>
+<p>In this project, I analyzed data from the 2019 FIVB Volleyball Women’s Nations League (VNL) to better understand the mechanisms of volleyball. I focused on the preliminary round, where each of the 16 teams played against every other team once in the round-robin stage. The player roster dataset contains the basic information of the 400 players from the 16 teams, such as the age, height, and position they play in the team. The team rank dataset contains the rank of the teams in terms of how many matches they won. Lastly, the best player datasets contain the summary of the player’s spike, block, set, and dig skills, respectively.</p>
+</div>
+<div id="methods" class="section level2">
+<h2>2. Methods</h2>
+<div id="data-source" class="section level3">
+<h3>2.1 Data Source</h3>
+<p>The data was retrieved by web scraping at <a href="https://en.volleyballworld.com/en/vnl/2019/">the 2019 VNL website</a>. The Python library Beautiful Soup was used to pull the data from web pages. The Python script and generated datasets can be viewed on <a href="https://github.com/Avery7Li/JSC370-project/tree/master">this GitHub repository</a>.</p>
+</div>
+<div id="tools-for-exploration" class="section level3">
+<h3>2.2 Tools for Exploration</h3>
+<p>I read the datasets into data tables. Data cleaning and wrangling operations were completed using primarily data.table methods. Most figures preseted in this report were created using ggplot2, while the interactive visualizations were generated using ggplotly. The GGally library was used to generate the pairwise correlation plots.</p>
+</div>
+<div id="data-wrangling" class="section level3">
+<h3>2.3 Data Wrangling</h3>
+<p><code>age</code> was created as a new numerical variable. I extracted the year from the <code>birthdate</code> variable, converted it into an integer value, and subtracted it from year 2019 to calculate a player’s age at the time of the competition.</p>
+<p>Next, I took the variable <code>total score</code> from the best scorers dataset, <code>attack success rate</code> from the best spikers dataset, <code>digs per set</code> from the best diggers dataset, <code>sets per set</code> from the best setters dataset, and <code>attack success rate</code> from the best attackers dataset. I merged the bio and with those variables of interest using the player name.</p>
+<p>Then, to prepare for the later investigation of the association between player performance and team result, I merged the newly generated player data table with the team rank data table. This time, no missing values were introduced to the combined table.</p>
+</div>
+</div>
+<div id="results" class="section level2">
+<h2>3. Results</h2>
+<p>The score a player can win for her team largely depends on the nature of the position she plays. Spikers are the primary scorers on a team and spike heights affect spikers’ potential of winning points the most among all positions.</p>
+<p>The scatter plot below shows players’ spike height and total score in 16 teams. There is not a dominant pattern across different teams. However, generally a player with a high score is more likely to have a high spike height.</p>
+<div id="htmlwidget-1" style="width:672px;height:480px;" class="plotly html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"visdat":{"140d84ac017e5":["function () ","plotlyVisDat"]},"cur_data":"140d84ac017e5","attrs":{"140d84ac017e5":{"x":{},"y":{},"mode":"markers","marker":{"color":{},"sizemode":"diameter","opacity":0.5},"hover_info":"text","text":{},"transforms":[{"type":"filter","target":{},"operation":"in","value":["CHN","USA","BRA","ITA","TUR","POL","BEL","DOM","JPN","GER","NED","THA","SRB","RUS","KOR","BUL"]}],"size":{},"alpha_stroke":1,"sizes":[5,70],"spans":[1,20],"type":"scatter"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"Scatterplots of Total Score vs Spike Height","yaxis":{"domain":[0,1],"automargin":true,"title":"Total Score"},"xaxis":{"domain":[0,1],"automargin":true,"title":"Spike Height"},"hovermode":"compare","updatemenus":[{"y":0.8,"buttons":[{"method":"restyle","args":["transforms[0].value","CHN"],"label":"1. China"},{"method":"restyle","args":["transforms[0].value","USA"],"label":"2. USA"},{"method":"restyle","args":["transforms[0].value","BRA"],"label":"3. Brazil"},{"method":"restyle","args":["transforms[0].value","ITA"],"label":"4. Italy"},{"method":"restyle","args":["transforms[0].value","TUR"],"label":"5. Turkey"},{"method":"restyle","args":["transforms[0].value","POL"],"label":"6. Poland"},{"method":"restyle","args":["transforms[0].value","BEL"],"label":"7. Belgium"},{"method":"restyle","args":["transforms[0].value","DOM"],"label":"8. Dominican Republic"},{"method":"restyle","args":["transforms[0].value","JPN"],"label":"9. Japan"},{"method":"restyle","args":["transforms[0].value","GER"],"label":"10. Germany"},{"method":"restyle","args":["transforms[0].value","NED"],"label":"11. Netherlands"},{"method":"restyle","args":["transforms[0].value","THA"],"label":"12. Thailand"},{"method":"restyle","args":["transforms[0].value","SRB"],"label":"13. Serbia"},{"method":"restyle","args":["transforms[0].value","RUS"],"label":"14. Russia"},{"method":"restyle","args":["transforms[0].value","KOR"],"label":"15. Korea"},{"method":"restyle","args":["transforms[0].value","BUL"],"label":"16. Bulgaria"}]}],"showlegend":false},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"x":[290,312,283,310,309,311,308,296,305,299,325,308,301,312,292,314,304,298,290,305,305,301,306,275,306,292,320,293,307,311,228,287,306,296,305,290,314,295,293,312,280,299,305,283,305,290,271,315,315,306,301,271,317,294,309,289,305,317,312,327,305,313,312,317,308,315,302,316,312,330,330,320,304,304,305,288,325,310,295,309,280,291,320,280,297,290,302,310,298,311,303,280,300,278,303,319,307,322,290,297,325,318,316,306,286,310,322,330,305,314,310,320,280,304,344,310,322,330,306,304,282,301,298,297,285,293,278,307,298,282,293,307,305,305,279,291,277,296,305,256,272,267,295,283,275,286,285,283,310,267,317,312,302,296,314,311,303,295,321,305,281,293,322,304,300,298,310,312,317,300,301,307,309,303,295,310,297,312,318,278,295,305,302,298,305,315,277,318,301,295,320,306,285,282,305,307,294,305,288,300,304,306,311,305,300,300,305,292,307,311,285,270,310,299,312,286,302,290,302,290,292,290,302,305,230,290,297,315,295,293,325,270,315,298,301,298,280,290,292,289,304,280,303,275,294,260,300,292,294,288,306,300,299,298,315,288,304,316,309,310,303,323,305,250,306,319,316,313,318,315,307,297,302,320,306,315,307,302,307,307,263,314,305,305,302,305,310,306],"y":[21,231,21,144,62,14,4,30,12,15,198,20,6,130,13,32,82,170,5,179,278,3,5,21,91,35,134,31,2,103,21,16,45,3,197,16,28,12,4,108,15,172,129,20,100,55,21,102,35,9,34,21,45,21,12,21,62,47,16,119,21,157,68,119,15,129,85,33,27,241,258,56,6,108,132,84,93,4,35,89,21,15,66,21,29,2,127,31,64,37,72,21,21,10,80,231,98,3,60,19,1,12,68,26,21,26,70,223,11,205,110,83,21,53,179,46,84,1,124,57,21,35,2,60,21,39,11,21,50,8,89,62,193,89,26,26,5,47,185,3,15,21,35,72,113,133,2,18,144,21,64,66,21,12,64,5,62,13,41,125,21,14,72,49,94,21,50,87,62,2,11,14,131,12,25,54,55,192,421,21,14,70,3,21,148,6,21,47,1,21,100,19,21,3,77,26,2,69,21,124,125,1,83,5,7,13,155,26,9,3,4,21,120,1,42,21,20,1,54,10,1,146,108,51,21,18,71,65,88,18,7,21,39,143,38,133,4,4,106,20,112,21,129,21,25,21,8,15,32,4,31,21,1,42,291,7,47,104,103,123,177,76,54,21,8,158,235,6,147,78,97,14,70,119,18,23,140,22,23,62,21,84,12,96,83,41,16,51],"mode":"markers","marker":{"color":["red","blue","red","blue","yellow","blue","orange","orange","blue","orange","green","green","blue","yellow","yellow","yellow","blue","yellow","yellow","green","blue","blue","yellow","red","green","orange","yellow","yellow","yellow","blue","red","orange","blue","green","blue","orange","green","blue","yellow","yellow","orange","blue","yellow","orange","blue","blue","red","blue","green","orange","blue","red","yellow","red","orange","red","yellow","yellow","green","blue","orange","green","blue","yellow","orange","blue","blue","yellow","yellow","blue","blue","yellow","blue","green","yellow","blue","green","yellow","orange","blue","red","orange","blue","red","orange","orange","blue","blue","blue","green","blue","red","yellow","red","yellow","green","yellow","yellow","blue","orange","yellow","orange","yellow","green","red","blue","yellow","blue","blue","green","blue","blue","red","orange","green","blue","yellow","green","blue","yellow","red","yellow","orange","yellow","red","blue","orange","green","yellow","orange","blue","blue","blue","blue","yellow","orange","blue","yellow","green","orange","orange","red","green","yellow","blue","blue","yellow","yellow","blue","red","blue","blue","red","orange","blue","yellow","yellow","blue","yellow","yellow","red","orange","green","blue","blue","red","yellow","blue","blue","orange","yellow","yellow","yellow","orange","orange","yellow","yellow","green","green","red","orange","blue","green","red","blue","blue","red","yellow","blue","red","yellow","green","red","orange","yellow","yellow","orange","blue","red","blue","blue","blue","green","yellow","orange","blue","blue","orange","yellow","blue","orange","red","green","blue","blue","red","blue","orange","blue","yellow","blue","blue","yellow","yellow","red","orange","green","yellow","green","orange","yellow","red","green","blue","yellow","blue","orange","blue","green","orange","blue","red","yellow","red","yellow","red","blue","yellow","red","blue","yellow","red","orange","orange","blue","orange","blue","green","blue","yellow","blue","green","blue","red","yellow","yellow","green","orange","yellow","yellow","yellow","yellow","blue","green","orange","green","blue","orange","yellow","blue","red","blue","orange","blue","blue","blue","blue","yellow"],"size":[8.45744680851064,19.5212765957447,6.90159574468085,22.6329787234043,11.2234042553191,15.8909574468085,12.2606382978723,33.1781914893617,17.1010638297872,8.11170212765957,22.2872340425532,12.7792553191489,11.0505319148936,16.2367021276596,19.3484042553191,11.0505319148936,5.17287234042553,10.186170212766,5,5,6.55585106382979,5.86436170212766,5,5.86436170212766,5,5.34574468085106,5.34574468085106,5,5,6.72872340425532,5,5,5.86436170212766,5,5,5,5.17287234042553,5,5,5,7.76595744680851,5,5,5,5,5,5,12.4335106382979,30.7579787234043,6.72872340425532,5,5,7.07446808510638,19.5212765957447,5,12.2606382978723,7.07446808510638,22.1143617021277,5,21.25,18.4840425531915,11.0505319148936,22.6329787234043,19.1755319148936,5,10.186170212766,7.07446808510638,13.125,5,45.625,26.436170212766,28.1648936170213,9.84042553191489,13.2978723404255,7.76595744680851,13.2978723404255,29.2021276595745,12.0877659574468,23.1515957446809,31.968085106383,8.11170212765957,17.4468085106383,33.0053191489362,7.93882978723404,37.6728723404255,6.90159574468085,6.38297872340426,17.2739361702128,27.1276595744681,8.11170212765957,17.1010638297872,38.5372340425532,12.7792553191489,5,7.76595744680851,23.1515957446809,14.6808510638298,5,5,6.03723404255319,5,24.7074468085106,26.9547872340426,6.03723404255319,27.8191489361702,31.7952127659574,40.2659574468085,16.9281914893617,5,27.3005319148936,51.6755319148936,27.9920212765957,51.6755319148936,34.0425531914894,29.0292553191489,5.86436170212766,18.311170212766,14.6808510638298,19.5212765957447,17.4468085106383,11.2234042553191,8.8031914893617,30.7579787234043,22.8058510638298,20.2127659574468,9.49468085106383,16.063829787234,8.45744680851064,33.8696808510638,10.8776595744681,38.1914893617021,31.4494680851064,43.7234042553191,30.2393617021277,43.2047872340425,19.3484042553191,7.59308510638298,15.0265957446809,39.2287234042553,10.186170212766,19.5212765957447,15.8909574468085,11.2234042553191,9.84042553191489,12.4335106382979,12.7792553191489,16.9281914893617,21.4228723404255,50.4654255319149,11.3962765957447,51.156914893617,6.55585106382979,6.55585106382979,18.8297872340426,49.4281914893617,6.55585106382979,8.97606382978723,6.55585106382979,6.55585106382979,18.4840425531915,45.2792553191489,68.4441489361702,52.8856382978723,70,25.0531914893617,61.1835106382979,43.5505319148936,17.4468085106383,16.9281914893617,6.55585106382979,18.656914893617,49.4281914893617,24.3617021276596,15.718085106383,8.63031914893617,10.531914893617,13.8164893617021,7.59308510638298,18.656914893617,7.59308510638298,15.718085106383,18.4840425531915,12.0877659574468,5,17.1010638297872,7.93882978723404,23.6702127659574,25.2260638297872,6.03723404255319,7.59308510638298,8.8031914893617,6.21010638297872,6.03723404255319,6.21010638297872,7.42021276595745,5.86436170212766,21.25,8.11170212765957,5.86436170212766,11.3962765957447,5,10.0132978723404,5,5,5.69148936170213,5,5.86436170212766,6.55585106382979,5,6.21010638297872,9.3218085106383,6.72872340425532,36.6356382978723,5,29.2021276595745,5,34.2154255319149,5.69148936170213,17.1010638297872,12.0877659574468,5.86436170212766,13.2978723404255,16.7553191489362,16.4095744680851,5,5,8.97606382978723,19.3484042553191,12.6063829787234,19.3484042553191,39.0558510638298,19.0026595744681,24.3617021276596,8.63031914893617,14.5079787234043,6.38297872340426,5,5.17287234042553,13.125,15.1994680851064,12.9521276595745,9.84042553191489,17.4468085106383,5.5186170212766,5.34574468085106,5.17287234042553,6.72872340425532,5.34574468085106,15.3723404255319,5.17287234042553,5,6.90159574468085,5,19.3484042553191,14.3351063829787,5,5,5,31.1037234042553,14.6808510638298,24.7074468085106,25.7446808510638,23.1515957446809,10.8776595744681,5,21.4228723404255,19.0026595744681,22.9787234042553,13.125,7.76595744680851,12.4335106382979,12.6063829787234,54.0957446808511,9.14893617021277,9.66755319148936,22.2872340425532,32.313829787234,15.8909574468085,30.4122340425532,15.5452127659574,5,20.5585106382979,17.6196808510638,23.3244680851064,5,15.1994680851064,6.72872340425532,34.3882978723404],"sizemode":"diameter","opacity":0.5,"line":{"color":"rgba(31,119,180,1)"}},"hover_info":"text","text":["Name: Anna Valkenborg<br>Team: BEL<br>Position: Libero<br>Total Selections: 20","Name: Britt Herbots<br>Team: BEL<br>Position: Outside Hitter<br>Total Selections: 84","Name: Britt Rampelberg<br>Team: BEL<br>Position: Libero<br>Total Selections: 11","Name: Celine Van Gestel<br>Team: BEL<br>Position: Outside Hitter<br>Total Selections: 102","Name: Dominika Sobolska<br>Team: BEL<br>Position: Middle Blocker<br>Total Selections: 36","Name: Dominika Strumilo<br>Team: BEL<br>Position: Outside Hitter<br>Total Selections: 63","Name: Elise Van Sas<br>Team: BEL<br>Position: Setter<br>Total Selections: 42","Name: Ilka Van De Vyver<br>Team: BEL<br>Position: Setter<br>Total Selections: 163","Name: Jodie Guilliams<br>Team: BEL<br>Position: Outside Hitter<br>Total Selections: 70","Name: Jutta Van De Vyver<br>Team: BEL<br>Position: Setter<br>Total Selections: 18","Name: Kaja Grobelna<br>Team: BEL<br>Position: Opposite Spiker<br>Total Selections: 100","Name: Karolina Goliat<br>Team: BEL<br>Position: Opposite Spiker<br>Total Selections: 45","Name: Manon Stragier<br>Team: BEL<br>Position: Outside Hitter<br>Total Selections: 35","Name: Marlies Janssens<br>Team: BEL<br>Position: Middle Blocker<br>Total Selections: 65","Name: Nathalie Lemmens<br>Team: BEL<br>Position: Middle Blocker<br>Total Selections: 83","Name: Silke Van Avermaet<br>Team: BEL<br>Position: Middle Blocker<br>Total Selections: 35","Name: Amanda Francisco<br>Team: BRA<br>Position: Outside Hitter<br>Total Selections: 1","Name: Ana Beatriz Correa<br>Team: BRA<br>Position: Middle Blocker<br>Total Selections: 30","Name: Ana Carolina Da Silva<br>Team: BRA<br>Position: Middle Blocker<br>Total Selections: 0","Name: Ana Paula Borgo Bedani Guedes<br>Team: BRA<br>Position: Opposite Spiker<br>Total Selections: 0","Name: Gabriela Braga Guimaraes<br>Team: BRA<br>Position: Outside Hitter<br>Total Selections: 9","Name: Julia Isabelle Bergmann<br>Team: BRA<br>Position: Outside Hitter<br>Total Selections: 5","Name: Lara Nobre Cardoso G Filomeno<br>Team: BRA<br>Position: Middle Blocker<br>Total Selections: 0","Name: Leia Henrique Da Silva Nicolosi<br>Team: BRA<br>Position: Libero<br>Total Selections: 5","Name: Lorenne Geraldo Teixeira<br>Team: BRA<br>Position: Opposite Spiker<br>Total Selections: 0","Name: Macris Fernanda Silva Carneiro<br>Team: BRA<br>Position: Setter<br>Total Selections: 2","Name: Mara Ferreira Leao<br>Team: BRA<br>Position: Middle Blocker<br>Total Selections: 2","Name: Mayany Cristina Araujo De Souza<br>Team: BRA<br>Position: Middle Blocker<br>Total Selections: 0","Name: Milka Marcília Medeiros Silva<br>Team: BRA<br>Position: Middle Blocker<br>Total Selections: 0","Name: Natalia Pereira<br>Team: BRA<br>Position: Outside Hitter<br>Total Selections: 10","Name: Natália Araujo<br>Team: BRA<br>Position: Libero<br>Total Selections: 0","Name: Roberta Silva Ratzke<br>Team: BRA<br>Position: Setter<br>Total Selections: 0","Name: Tainara Lemes Santos<br>Team: BRA<br>Position: Outside Hitter<br>Total Selections: 5","Name: Elena Becheva<br>Team: BUL<br>Position: Opposite Spiker<br>Total Selections: 0","Name: Gergana Dimitrova<br>Team: BUL<br>Position: Outside Hitter<br>Total Selections: 0","Name: Lora Kitipova<br>Team: BUL<br>Position: Setter<br>Total Selections: 0","Name: Maria Dancheva<br>Team: BUL<br>Position: Opposite Spiker<br>Total Selections: 1","Name: Mariya Karakasheva<br>Team: BUL<br>Position: Outside Hitter<br>Total Selections: 0","Name: Mariya Krivoshiyska<br>Team: BUL<br>Position: Middle Blocker<br>Total Selections: 0","Name: Mira Todorova<br>Team: BUL<br>Position: Middle Blocker<br>Total Selections: 0","Name: Mirela Shahpazova<br>Team: BUL<br>Position: Setter<br>Total Selections: 16","Name: Miroslava Paskova<br>Team: BUL<br>Position: Outside Hitter<br>Total Selections: 0","Name: Nasya Dimitrova<br>Team: BUL<br>Position: Middle Blocker<br>Total Selections: 0","Name: Petya Barakova<br>Team: BUL<br>Position: Setter<br>Total Selections: 0","Name: Silvana Chausheva<br>Team: BUL<br>Position: Outside Hitter<br>Total Selections: 0","Name: Simona Dimitrova<br>Team: BUL<br>Position: Outside Hitter<br>Total Selections: 0","Name: Zhana Todorova<br>Team: BUL<br>Position: Libero<br>Total Selections: 0","Name: Changning Zhang<br>Team: CHN<br>Position: Outside Hitter<br>Total Selections: 43","Name: Chunlei Zeng<br>Team: CHN<br>Position: Opposite Spiker<br>Total Selections: 149","Name: Di Yao<br>Team: CHN<br>Position: Setter<br>Total Selections: 10","Name: Fang Duan<br>Team: CHN<br>Position: Outside Hitter<br>Total Selections: 0","Name: Feifan Ni<br>Team: CHN<br>Position: Libero<br>Total Selections: 0","Name: Hanyu Yang<br>Team: CHN<br>Position: Middle Blocker<br>Total Selections: 12","Name: Li Lin<br>Team: CHN<br>Position: Libero<br>Total Selections: 84","Name: Linyu Diao<br>Team: CHN<br>Position: Setter<br>Total Selections: 0","Name: Mengjie Wang<br>Team: CHN<br>Position: Libero<br>Total Selections: 42","Name: Mingyuan Hu<br>Team: CHN<br>Position: Middle Blocker<br>Total Selections: 12","Name: Ni Yan<br>Team: CHN<br>Position: Middle Blocker<br>Total Selections: 99","Name: Qingqing Du<br>Team: CHN<br>Position: Opposite Spiker<br>Total Selections: 0","Name: Ting Zhu<br>Team: CHN<br>Position: Outside Hitter<br>Total Selections: 94","Name: Xia Ding<br>Team: CHN<br>Position: Setter<br>Total Selections: 78","Name: Xiangyu Gong<br>Team: CHN<br>Position: Opposite Spiker<br>Total Selections: 35","Name: Xiaotong Liu<br>Team: CHN<br>Position: Outside Hitter<br>Total Selections: 102","Name: Xinyue Yuan<br>Team: CHN<br>Position: Middle Blocker<br>Total Selections: 82","Name: Yan Sun<br>Team: CHN<br>Position: Setter<br>Total Selections: 0","Name: Yanhan Liu<br>Team: CHN<br>Position: Outside Hitter<br>Total Selections: 30","Name: Yingying Li<br>Team: CHN<br>Position: Outside Hitter<br>Total Selections: 12","Name: Yixin Zheng<br>Team: CHN<br>Position: Middle Blocker<br>Total Selections: 47","Name: Yuanyuan Wang<br>Team: CHN<br>Position: Middle Blocker<br>Total Selections: 0","Name: Bethania De La Cruz De Peña<br>Team: DOM<br>Position: Outside Hitter<br>Total Selections: 235","Name: Brayelin Elizabeth Martinez<br>Team: DOM<br>Position: Outside Hitter<br>Total Selections: 124","Name: Candida Estefany Arias Perez<br>Team: DOM<br>Position: Middle Blocker<br>Total Selections: 134","Name: Erasma Moreno Martinez<br>Team: DOM<br>Position: Outside Hitter<br>Total Selections: 28","Name: Gaila Ceneida Gonzalez Lopez<br>Team: DOM<br>Position: Opposite Spiker<br>Total Selections: 48","Name: Jineiry Martinez<br>Team: DOM<br>Position: Middle Blocker<br>Total Selections: 16","Name: Larysmer Martinez Caro<br>Team: DOM<br>Position: Outside Hitter<br>Total Selections: 48","Name: Lisvel Elisa Eve Mejia<br>Team: DOM<br>Position: Opposite Spiker<br>Total Selections: 140","Name: Marifranchi Rodriguez<br>Team: DOM<br>Position: Middle Blocker<br>Total Selections: 41","Name: Niverka Dharlenis Marte Frica<br>Team: DOM<br>Position: Setter<br>Total Selections: 105","Name: Prisilla Rivera Brens<br>Team: DOM<br>Position: Outside Hitter<br>Total Selections: 156","Name: Yaneirys Rodriguez Duran<br>Team: DOM<br>Position: Libero<br>Total Selections: 18","Name: Yokaty Perez Flores<br>Team: DOM<br>Position: Setter<br>Total Selections: 72","Name: Yonkaira Paola Peña Isabel<br>Team: DOM<br>Position: Outside Hitter<br>Total Selections: 162","Name: Anna Pogany<br>Team: GER<br>Position: Libero<br>Total Selections: 17","Name: Denise Hanke<br>Team: GER<br>Position: Setter<br>Total Selections: 189","Name: Denise Imoudu<br>Team: GER<br>Position: Setter<br>Total Selections: 11","Name: Hanna Orthmann<br>Team: GER<br>Position: Outside Hitter<br>Total Selections: 8","Name: Jana Franziska Poll<br>Team: GER<br>Position: Outside Hitter<br>Total Selections: 71","Name: Jennifer Janiska<br>Team: GER<br>Position: Outside Hitter<br>Total Selections: 128","Name: Kimberly Drewniok<br>Team: GER<br>Position: Opposite Spiker<br>Total Selections: 18","Name: Lena Stigrot<br>Team: GER<br>Position: Outside Hitter<br>Total Selections: 70","Name: Lenka Dürr<br>Team: GER<br>Position: Libero<br>Total Selections: 194","Name: Leonie Schwertmann<br>Team: GER<br>Position: Middle Blocker<br>Total Selections: 45","Name: Linda Bock<br>Team: GER<br>Position: Libero<br>Total Selections: 0","Name: Lisa Gründing<br>Team: GER<br>Position: Middle Blocker<br>Total Selections: 16","Name: Louisa Lippmann<br>Team: GER<br>Position: Opposite Spiker<br>Total Selections: 105","Name: Marie Schölzel<br>Team: GER<br>Position: Middle Blocker<br>Total Selections: 56","Name: Natalie Wilczek<br>Team: GER<br>Position: Middle Blocker<br>Total Selections: 0","Name: Nele Barber<br>Team: GER<br>Position: Outside Hitter<br>Total Selections: 0","Name: Pia Kästner<br>Team: GER<br>Position: Setter<br>Total Selections: 6","Name: Selma Hetmann<br>Team: GER<br>Position: Middle Blocker<br>Total Selections: 0","Name: Alessia Orro<br>Team: ITA<br>Position: Setter<br>Total Selections: 114","Name: Anna Danesi<br>Team: ITA<br>Position: Middle Blocker<br>Total Selections: 127","Name: Anna Nicoletti<br>Team: ITA<br>Position: Opposite Spiker<br>Total Selections: 6","Name: Beatrice Parrocchiale<br>Team: ITA<br>Position: Libero<br>Total Selections: 132","Name: Caterina Chiara Bosetti<br>Team: ITA<br>Position: Outside Hitter<br>Total Selections: 155","Name: Cristina Chirichella<br>Team: ITA<br>Position: Middle Blocker<br>Total Selections: 204","Name: Elena Pietrini<br>Team: ITA<br>Position: Outside Hitter<br>Total Selections: 69","Name: Francesca Villani<br>Team: ITA<br>Position: Outside Hitter<br>Total Selections: 0","Name: Indre Sorokaite<br>Team: ITA<br>Position: Opposite Spiker<br>Total Selections: 129","Name: Lucia Bosetti<br>Team: ITA<br>Position: Outside Hitter<br>Total Selections: 270","Name: Miryam Fatime Sylla<br>Team: ITA<br>Position: Outside Hitter<br>Total Selections: 133","Name: Monica De Gennaro<br>Team: ITA<br>Position: Libero<br>Total Selections: 270","Name: Ofelia Malinov<br>Team: ITA<br>Position: Setter<br>Total Selections: 168","Name: Paola Ogechi Egonu<br>Team: ITA<br>Position: Opposite Spiker<br>Total Selections: 139","Name: Sara Alberti<br>Team: ITA<br>Position: Outside Hitter<br>Total Selections: 5","Name: Sarah Luisa Fahr<br>Team: ITA<br>Position: Middle Blocker<br>Total Selections: 77","Name: Sylvia Chinelo Nwakalor<br>Team: ITA<br>Position: Opposite Spiker<br>Total Selections: 56","Name: Ai Kurogo<br>Team: JPN<br>Position: Outside Hitter<br>Total Selections: 84","Name: Aika Akutagawa<br>Team: JPN<br>Position: Middle Blocker<br>Total Selections: 72","Name: Akane Moriya<br>Team: JPN<br>Position: Libero<br>Total Selections: 36","Name: Aya Watanabe<br>Team: JPN<br>Position: Middle Blocker<br>Total Selections: 22","Name: Haruka Miyashita<br>Team: JPN<br>Position: Setter<br>Total Selections: 149","Name: Mai Okumura<br>Team: JPN<br>Position: Middle Blocker<br>Total Selections: 103","Name: Mako Kobata<br>Team: JPN<br>Position: Libero<br>Total Selections: 88","Name: Miwako Osanai<br>Team: JPN<br>Position: Outside Hitter<br>Total Selections: 26","Name: Miya Sato<br>Team: JPN<br>Position: Setter<br>Total Selections: 64","Name: Miyu Nakagawa<br>Team: JPN<br>Position: Opposite Spiker<br>Total Selections: 20","Name: Nana Iwasaka<br>Team: JPN<br>Position: Middle Blocker<br>Total Selections: 167","Name: Nanami Seki<br>Team: JPN<br>Position: Setter<br>Total Selections: 34","Name: Risa Shinnabe<br>Team: JPN<br>Position: Outside Hitter<br>Total Selections: 192","Name: Sarina Koga<br>Team: JPN<br>Position: Outside Hitter<br>Total Selections: 153","Name: Yuki Ishii<br>Team: JPN<br>Position: Outside Hitter<br>Total Selections: 224","Name: Yurie Nabeya<br>Team: JPN<br>Position: Outside Hitter<br>Total Selections: 146","Name: Dae Young Jung<br>Team: KOR<br>Position: Middle Blocker<br>Total Selections: 221","Name: Dayeong Lee<br>Team: KOR<br>Position: Setter<br>Total Selections: 83","Name: Eunji Choi<br>Team: KOR<br>Position: Outside Hitter<br>Total Selections: 15","Name: Eunjin Park<br>Team: KOR<br>Position: Middle Blocker<br>Total Selections: 58","Name: Heejin Kim<br>Team: KOR<br>Position: Opposite Spiker<br>Total Selections: 198","Name: Hyejin An<br>Team: KOR<br>Position: Setter<br>Total Selections: 30","Name: Hyo Hee Lee<br>Team: KOR<br>Position: Setter<br>Total Selections: 84","Name: Jiyoung Oh<br>Team: KOR<br>Position: Libero<br>Total Selections: 63","Name: Jiyun Jeong<br>Team: KOR<br>Position: Opposite Spiker<br>Total Selections: 36","Name: Juah Lee<br>Team: KOR<br>Position: Middle Blocker<br>Total Selections: 28","Name: Seungju Pyo<br>Team: KOR<br>Position: Outside Hitter<br>Total Selections: 43","Name: Sohwi Kang<br>Team: KOR<br>Position: Outside Hitter<br>Total Selections: 45","Name: Sooji Han<br>Team: KOR<br>Position: Middle Blocker<br>Total Selections: 69","Name: Su Ji Kim<br>Team: KOR<br>Position: Middle Blocker<br>Total Selections: 95","Name: Yeon Koung Kim<br>Team: KOR<br>Position: Outside Hitter<br>Total Selections: 263","Name: Yeongyeon Kim<br>Team: KOR<br>Position: Libero<br>Total Selections: 37","Name: Anne Buijs<br>Team: NED<br>Position: Outside Hitter<br>Total Selections: 267","Name: Annick Meijers<br>Team: NED<br>Position: Outside Hitter<br>Total Selections: 9","Name: Anniek Siebring<br>Team: NED<br>Position: Libero<br>Total Selections: 9","Name: Britt Bongaerts<br>Team: NED<br>Position: Setter<br>Total Selections: 80","Name: Celeste Plak<br>Team: NED<br>Position: Outside Hitter<br>Total Selections: 257","Name: Demi Korevaar<br>Team: NED<br>Position: Middle Blocker<br>Total Selections: 9","Name: Eline Timmerman<br>Team: NED<br>Position: Middle Blocker<br>Total Selections: 23","Name: Hester Jasper<br>Team: NED<br>Position: Outside Hitter<br>Total Selections: 9","Name: Indy Baijens<br>Team: NED<br>Position: Middle Blocker<br>Total Selections: 9","Name: Juliet Lohuis<br>Team: NED<br>Position: Middle Blocker<br>Total Selections: 78","Name: Kirsten Knip<br>Team: NED<br>Position: Libero<br>Total Selections: 233","Name: Laura Dijkema<br>Team: NED<br>Position: Setter<br>Total Selections: 367","Name: Lonneke Slöetjes<br>Team: NED<br>Position: Opposite Spiker<br>Total Selections: 277","Name: Maret Grothues<br>Team: NED<br>Position: Outside Hitter<br>Total Selections: 376","Name: Marrit Jasper<br>Team: NED<br>Position: Outside Hitter<br>Total Selections: 116","Name: Myrthe Schoot<br>Team: NED<br>Position: Libero<br>Total Selections: 325","Name: Nicole Koolhaas<br>Team: NED<br>Position: Middle Blocker<br>Total Selections: 223","Name: Nicole Oude Luttikhuis<br>Team: NED<br>Position: Outside Hitter<br>Total Selections: 72","Name: Nika Daalderop<br>Team: NED<br>Position: Outside Hitter<br>Total Selections: 69","Name: Sarah Van Aalen<br>Team: NED<br>Position: Setter<br>Total Selections: 9","Name: Tessa Polder<br>Team: NED<br>Position: Middle Blocker<br>Total Selections: 79","Name: Yvon Belien<br>Team: NED<br>Position: Middle Blocker<br>Total Selections: 257","Name: Agnieszka Kakolewska<br>Team: POL<br>Position: Middle Blocker<br>Total Selections: 112","Name: Joanna Wolosz<br>Team: POL<br>Position: Setter<br>Total Selections: 62","Name: Julia Nowicka<br>Team: POL<br>Position: Setter<br>Total Selections: 21","Name: Kamila Witkowska<br>Team: POL<br>Position: Middle Blocker<br>Total Selections: 32","Name: Klaudia Alagierska<br>Team: POL<br>Position: Middle Blocker<br>Total Selections: 51","Name: Magdalena Stysiak<br>Team: POL<br>Position: Opposite Spiker<br>Total Selections: 15","Name: Malwina Smarzek<br>Team: POL<br>Position: Opposite Spiker<br>Total Selections: 79","Name: Maria Stenzel<br>Team: POL<br>Position: Libero<br>Total Selections: 15","Name: Marlena Kowalewska<br>Team: POL<br>Position: Setter<br>Total Selections: 62","Name: Martyna Grajber<br>Team: POL<br>Position: Outside Hitter<br>Total Selections: 78","Name: Monika Galkowska<br>Team: POL<br>Position: Opposite Spiker<br>Total Selections: 41","Name: Monika Jagla<br>Team: POL<br>Position: Libero<br>Total Selections: 0","Name: Natalia Medrzyk<br>Team: POL<br>Position: Outside Hitter<br>Total Selections: 70","Name: Olivia Rozanski<br>Team: POL<br>Position: Outside Hitter<br>Total Selections: 17","Name: Paulina Maj-Erwardt<br>Team: POL<br>Position: Libero<br>Total Selections: 108","Name: Zuzanna Efimienko-Mlotkowska<br>Team: POL<br>Position: Middle Blocker<br>Total Selections: 117","Name: Zuzanna Gorecka<br>Team: POL<br>Position: Outside Hitter<br>Total Selections: 6","Name: Alla Galkina<br>Team: RUS<br>Position: Libero<br>Total Selections: 15","Name: Angelina Lazarenko<br>Team: RUS<br>Position: Middle Blocker<br>Total Selections: 22","Name: Anna Kotikova<br>Team: RUS<br>Position: Opposite Spiker<br>Total Selections: 7","Name: Daria Pilipenko<br>Team: RUS<br>Position: Libero<br>Total Selections: 6","Name: Daria Ryseva<br>Team: RUS<br>Position: Setter<br>Total Selections: 7","Name: Ekaterina Efimova<br>Team: RUS<br>Position: Middle Blocker<br>Total Selections: 14","Name: Ekaterina Orlova<br>Team: RUS<br>Position: Middle Blocker<br>Total Selections: 5","Name: Evgeniya Startseva<br>Team: RUS<br>Position: Setter<br>Total Selections: 94","Name: Irina Voronkova<br>Team: RUS<br>Position: Outside Hitter<br>Total Selections: 18","Name: Kristina Kurnosova<br>Team: RUS<br>Position: Libero<br>Total Selections: 5","Name: Kseniia Parubets<br>Team: RUS<br>Position: Outside Hitter<br>Total Selections: 37","Name: Margarita Kurilo<br>Team: RUS<br>Position: Outside Hitter<br>Total Selections: 0","Name: Maria Vorobyeva<br>Team: RUS<br>Position: Outside Hitter<br>Total Selections: 29","Name: Mariia Khaletskaia<br>Team: RUS<br>Position: Opposite Spiker<br>Total Selections: 0","Name: Olga Zubareva<br>Team: RUS<br>Position: Middle Blocker<br>Total Selections: 0","Name: Polina Matveeva<br>Team: RUS<br>Position: Setter<br>Total Selections: 4","Name: Sofya Kuznetsova<br>Team: RUS<br>Position: Outside Hitter<br>Total Selections: 0","Name: Tatiana Ezhak<br>Team: RUS<br>Position: Outside Hitter<br>Total Selections: 5","Name: Tatiana Romanova<br>Team: RUS<br>Position: Setter<br>Total Selections: 9","Name: Valeriya Zaytseva<br>Team: RUS<br>Position: Middle Blocker<br>Total Selections: 0","Name: Victoriia Russu<br>Team: RUS<br>Position: Outside Hitter<br>Total Selections: 7","Name: Aleksandra Cirovic<br>Team: SRB<br>Position: Setter<br>Total Selections: 25","Name: Aleksandra Tadic<br>Team: SRB<br>Position: Libero<br>Total Selections: 10","Name: Ana Bjelica<br>Team: SRB<br>Position: Opposite Spiker<br>Total Selections: 183","Name: Ana Pejicic<br>Team: SRB<br>Position: Outside Hitter<br>Total Selections: 0","Name: Bianka Busa<br>Team: SRB<br>Position: Outside Hitter<br>Total Selections: 140","Name: Bojana Gocanin<br>Team: SRB<br>Position: Libero<br>Total Selections: 0","Name: Brankica Mihajlovic<br>Team: SRB<br>Position: Outside Hitter<br>Total Selections: 169","Name: Emilija Zakic<br>Team: SRB<br>Position: Setter<br>Total Selections: 4","Name: Jelena Blagojevic<br>Team: SRB<br>Position: Outside Hitter<br>Total Selections: 70","Name: Jovana Kocic<br>Team: SRB<br>Position: Middle Blocker<br>Total Selections: 41","Name: Katarina Jovic<br>Team: SRB<br>Position: Outside Hitter<br>Total Selections: 5","Name: Katarina Lazovic<br>Team: SRB<br>Position: Outside Hitter<br>Total Selections: 48","Name: Maja Aleksic<br>Team: SRB<br>Position: Middle Blocker<br>Total Selections: 68","Name: Maja Savic<br>Team: SRB<br>Position: Middle Blocker<br>Total Selections: 66","Name: Marija Popovic<br>Team: SRB<br>Position: Libero<br>Total Selections: 0","Name: Mila Djordjevic<br>Team: SRB<br>Position: Setter<br>Total Selections: 0","Name: Milica Kubura<br>Team: SRB<br>Position: Opposite Spiker<br>Total Selections: 23","Name: Mina Popovic<br>Team: SRB<br>Position: Middle Blocker<br>Total Selections: 83","Name: Sara Lozo<br>Team: SRB<br>Position: Opposite Spiker<br>Total Selections: 44","Name: Sladjana Mirkovic<br>Team: SRB<br>Position: Setter<br>Total Selections: 83","Name: Stefana Veljkovic<br>Team: SRB<br>Position: Middle Blocker<br>Total Selections: 197","Name: Teodora Pusic<br>Team: SRB<br>Position: Libero<br>Total Selections: 81","Name: Tijana Boškovic<br>Team: SRB<br>Position: Opposite Spiker<br>Total Selections: 112","Name: Ajcharaporn Kongyot<br>Team: THA<br>Position: Outside Hitter<br>Total Selections: 21","Name: Amporn Hyapha<br>Team: THA<br>Position: Middle Blocker<br>Total Selections: 55","Name: Chatchu-On Moksri<br>Team: THA<br>Position: Outside Hitter<br>Total Selections: 8","Name: Gullapa Piampongsan<br>Team: THA<br>Position: Setter<br>Total Selections: 0","Name: Jutarat Montripila<br>Team: THA<br>Position: Outside Hitter<br>Total Selections: 1","Name: Malika Kanthong<br>Team: THA<br>Position: Opposite Spiker<br>Total Selections: 47","Name: Nootsara Tomkom<br>Team: THA<br>Position: Setter<br>Total Selections: 59","Name: Onuma Sittirak<br>Team: THA<br>Position: Outside Hitter<br>Total Selections: 46","Name: Piyanut Pannoy<br>Team: THA<br>Position: Libero<br>Total Selections: 28","Name: Pleumjit Thinkaow<br>Team: THA<br>Position: Middle Blocker<br>Total Selections: 72","Name: Supattra Pairoj<br>Team: THA<br>Position: Libero<br>Total Selections: 3","Name: Tichakorn Boonlert<br>Team: THA<br>Position: Middle Blocker<br>Total Selections: 2","Name: Tikamporn Changkeaw<br>Team: THA<br>Position: Libero<br>Total Selections: 1","Name: Wanitchaya Luangtonglang<br>Team: THA<br>Position: Outside Hitter<br>Total Selections: 10","Name: Watchareeya Nuanjam<br>Team: THA<br>Position: Middle Blocker<br>Total Selections: 2","Name: Wilavan Apinyapong<br>Team: THA<br>Position: Libero<br>Total Selections: 60","Name: Wipawee Srithong<br>Team: THA<br>Position: Outside Hitter<br>Total Selections: 1","Name: Asli Kalac<br>Team: TUR<br>Position: Middle Blocker<br>Total Selections: 0","Name: Aylin Acar<br>Team: TUR<br>Position: Libero<br>Total Selections: 11","Name: Buse Unal<br>Team: TUR<br>Position: Setter<br>Total Selections: 0","Name: Cansu Özbay<br>Team: TUR<br>Position: Setter<br>Total Selections: 83","Name: Ebrar Karakurt<br>Team: TUR<br>Position: Outside Hitter<br>Total Selections: 54","Name: Ezgi Dilik<br>Team: TUR<br>Position: Setter<br>Total Selections: 0","Name: Fatma Yildirim<br>Team: TUR<br>Position: Outside Hitter<br>Total Selections: 0","Name: Gözde Yilmaz<br>Team: TUR<br>Position: Opposite Spiker<br>Total Selections: 0","Name: Hande Baladin<br>Team: TUR<br>Position: Outside Hitter<br>Total Selections: 151","Name: Kubra Caliskan<br>Team: TUR<br>Position: Middle Blocker<br>Total Selections: 56","Name: Meliha Ismailoglu<br>Team: TUR<br>Position: Outside Hitter<br>Total Selections: 114","Name: Meryem Boz<br>Team: TUR<br>Position: Opposite Spiker<br>Total Selections: 120","Name: Seyma Ercan<br>Team: TUR<br>Position: Outside Hitter<br>Total Selections: 105","Name: Simge Sebnem Akoz<br>Team: TUR<br>Position: Libero<br>Total Selections: 34","Name: Yasemin Guveli<br>Team: TUR<br>Position: Middle Blocker<br>Total Selections: 0","Name: Zehra Gunes<br>Team: TUR<br>Position: Middle Blocker<br>Total Selections: 95","Name: Andrea Drews<br>Team: USA<br>Position: Opposite Spiker<br>Total Selections: 81","Name: Carli Lloyd<br>Team: USA<br>Position: Setter<br>Total Selections: 104","Name: Chiaka Ogbogu<br>Team: USA<br>Position: Middle Blocker<br>Total Selections: 47","Name: Dana Rettke<br>Team: USA<br>Position: Middle Blocker<br>Total Selections: 16","Name: Haleigh Washington<br>Team: USA<br>Position: Middle Blocker<br>Total Selections: 43","Name: Hannah Tapp<br>Team: USA<br>Position: Middle Blocker<br>Total Selections: 44","Name: Jordan Larson<br>Team: USA<br>Position: Outside Hitter<br>Total Selections: 284","Name: Jordan Thompson<br>Team: USA<br>Position: Opposite Spiker<br>Total Selections: 24","Name: Jordyn Poulter<br>Team: USA<br>Position: Setter<br>Total Selections: 27","Name: Karsta Lowe<br>Team: USA<br>Position: Opposite Spiker<br>Total Selections: 100","Name: Kelsey Robinson<br>Team: USA<br>Position: Outside Hitter<br>Total Selections: 158","Name: Lauren Carlini<br>Team: USA<br>Position: Setter<br>Total Selections: 63","Name: Lauren Gibbemeyer<br>Team: USA<br>Position: Middle Blocker<br>Total Selections: 147","Name: Madison Kingdon Rishel<br>Team: USA<br>Position: Outside Hitter<br>Total Selections: 61","Name: Mary Lake<br>Team: USA<br>Position: Libero<br>Total Selections: 0","Name: Megan Courtney<br>Team: USA<br>Position: Outside Hitter<br>Total Selections: 90","Name: Micha Hancock<br>Team: USA<br>Position: Setter<br>Total Selections: 73","Name: Michelle Bartsch-Hackley<br>Team: USA<br>Position: Outside Hitter<br>Total Selections: 106","Name: Mikaela Foecke<br>Team: USA<br>Position: Outside Hitter<br>Total Selections: 0","Name: Sarah Wilhite<br>Team: USA<br>Position: Outside Hitter<br>Total Selections: 59","Name: Simone Lee<br>Team: USA<br>Position: Outside Hitter<br>Total Selections: 10","Name: Tetori Dixon<br>Team: USA<br>Position: Middle Blocker<br>Total Selections: 170"],"transforms":[{"type":"filter","target":["BEL","BEL","BEL","BEL","BEL","BEL","BEL","BEL","BEL","BEL","BEL","BEL","BEL","BEL","BEL","BEL","BRA","BRA","BRA","BRA","BRA","BRA","BRA","BRA","BRA","BRA","BRA","BRA","BRA","BRA","BRA","BRA","BRA","BUL","BUL","BUL","BUL","BUL","BUL","BUL","BUL","BUL","BUL","BUL","BUL","BUL","BUL","CHN","CHN","CHN","CHN","CHN","CHN","CHN","CHN","CHN","CHN","CHN","CHN","CHN","CHN","CHN","CHN","CHN","CHN","CHN","CHN","CHN","CHN","DOM","DOM","DOM","DOM","DOM","DOM","DOM","DOM","DOM","DOM","DOM","DOM","DOM","DOM","GER","GER","GER","GER","GER","GER","GER","GER","GER","GER","GER","GER","GER","GER","GER","GER","GER","GER","ITA","ITA","ITA","ITA","ITA","ITA","ITA","ITA","ITA","ITA","ITA","ITA","ITA","ITA","ITA","ITA","ITA","JPN","JPN","JPN","JPN","JPN","JPN","JPN","JPN","JPN","JPN","JPN","JPN","JPN","JPN","JPN","JPN","KOR","KOR","KOR","KOR","KOR","KOR","KOR","KOR","KOR","KOR","KOR","KOR","KOR","KOR","KOR","KOR","NED","NED","NED","NED","NED","NED","NED","NED","NED","NED","NED","NED","NED","NED","NED","NED","NED","NED","NED","NED","NED","NED","POL","POL","POL","POL","POL","POL","POL","POL","POL","POL","POL","POL","POL","POL","POL","POL","POL","RUS","RUS","RUS","RUS","RUS","RUS","RUS","RUS","RUS","RUS","RUS","RUS","RUS","RUS","RUS","RUS","RUS","RUS","RUS","RUS","RUS","SRB","SRB","SRB","SRB","SRB","SRB","SRB","SRB","SRB","SRB","SRB","SRB","SRB","SRB","SRB","SRB","SRB","SRB","SRB","SRB","SRB","SRB","SRB","THA","THA","THA","THA","THA","THA","THA","THA","THA","THA","THA","THA","THA","THA","THA","THA","THA","TUR","TUR","TUR","TUR","TUR","TUR","TUR","TUR","TUR","TUR","TUR","TUR","TUR","TUR","TUR","TUR","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA"],"operation":"in","value":["CHN","USA","BRA","ITA","TUR","POL","BEL","DOM","JPN","GER","NED","THA","SRB","RUS","KOR","BUL"]}],"type":"scatter","textfont":{"size":[8.45744680851064,19.5212765957447,6.90159574468085,22.6329787234043,11.2234042553191,15.8909574468085,12.2606382978723,33.1781914893617,17.1010638297872,8.11170212765957,22.2872340425532,12.7792553191489,11.0505319148936,16.2367021276596,19.3484042553191,11.0505319148936,5.17287234042553,10.186170212766,5,5,6.55585106382979,5.86436170212766,5,5.86436170212766,5,5.34574468085106,5.34574468085106,5,5,6.72872340425532,5,5,5.86436170212766,5,5,5,5.17287234042553,5,5,5,7.76595744680851,5,5,5,5,5,5,12.4335106382979,30.7579787234043,6.72872340425532,5,5,7.07446808510638,19.5212765957447,5,12.2606382978723,7.07446808510638,22.1143617021277,5,21.25,18.4840425531915,11.0505319148936,22.6329787234043,19.1755319148936,5,10.186170212766,7.07446808510638,13.125,5,45.625,26.436170212766,28.1648936170213,9.84042553191489,13.2978723404255,7.76595744680851,13.2978723404255,29.2021276595745,12.0877659574468,23.1515957446809,31.968085106383,8.11170212765957,17.4468085106383,33.0053191489362,7.93882978723404,37.6728723404255,6.90159574468085,6.38297872340426,17.2739361702128,27.1276595744681,8.11170212765957,17.1010638297872,38.5372340425532,12.7792553191489,5,7.76595744680851,23.1515957446809,14.6808510638298,5,5,6.03723404255319,5,24.7074468085106,26.9547872340426,6.03723404255319,27.8191489361702,31.7952127659574,40.2659574468085,16.9281914893617,5,27.3005319148936,51.6755319148936,27.9920212765957,51.6755319148936,34.0425531914894,29.0292553191489,5.86436170212766,18.311170212766,14.6808510638298,19.5212765957447,17.4468085106383,11.2234042553191,8.8031914893617,30.7579787234043,22.8058510638298,20.2127659574468,9.49468085106383,16.063829787234,8.45744680851064,33.8696808510638,10.8776595744681,38.1914893617021,31.4494680851064,43.7234042553191,30.2393617021277,43.2047872340425,19.3484042553191,7.59308510638298,15.0265957446809,39.2287234042553,10.186170212766,19.5212765957447,15.8909574468085,11.2234042553191,9.84042553191489,12.4335106382979,12.7792553191489,16.9281914893617,21.4228723404255,50.4654255319149,11.3962765957447,51.156914893617,6.55585106382979,6.55585106382979,18.8297872340426,49.4281914893617,6.55585106382979,8.97606382978723,6.55585106382979,6.55585106382979,18.4840425531915,45.2792553191489,68.4441489361702,52.8856382978723,70,25.0531914893617,61.1835106382979,43.5505319148936,17.4468085106383,16.9281914893617,6.55585106382979,18.656914893617,49.4281914893617,24.3617021276596,15.718085106383,8.63031914893617,10.531914893617,13.8164893617021,7.59308510638298,18.656914893617,7.59308510638298,15.718085106383,18.4840425531915,12.0877659574468,5,17.1010638297872,7.93882978723404,23.6702127659574,25.2260638297872,6.03723404255319,7.59308510638298,8.8031914893617,6.21010638297872,6.03723404255319,6.21010638297872,7.42021276595745,5.86436170212766,21.25,8.11170212765957,5.86436170212766,11.3962765957447,5,10.0132978723404,5,5,5.69148936170213,5,5.86436170212766,6.55585106382979,5,6.21010638297872,9.3218085106383,6.72872340425532,36.6356382978723,5,29.2021276595745,5,34.2154255319149,5.69148936170213,17.1010638297872,12.0877659574468,5.86436170212766,13.2978723404255,16.7553191489362,16.4095744680851,5,5,8.97606382978723,19.3484042553191,12.6063829787234,19.3484042553191,39.0558510638298,19.0026595744681,24.3617021276596,8.63031914893617,14.5079787234043,6.38297872340426,5,5.17287234042553,13.125,15.1994680851064,12.9521276595745,9.84042553191489,17.4468085106383,5.5186170212766,5.34574468085106,5.17287234042553,6.72872340425532,5.34574468085106,15.3723404255319,5.17287234042553,5,6.90159574468085,5,19.3484042553191,14.3351063829787,5,5,5,31.1037234042553,14.6808510638298,24.7074468085106,25.7446808510638,23.1515957446809,10.8776595744681,5,21.4228723404255,19.0026595744681,22.9787234042553,13.125,7.76595744680851,12.4335106382979,12.6063829787234,54.0957446808511,9.14893617021277,9.66755319148936,22.2872340425532,32.313829787234,15.8909574468085,30.4122340425532,15.5452127659574,5,20.5585106382979,17.6196808510638,23.3244680851064,5,15.1994680851064,6.72872340425532,34.3882978723404]},"error_y":{"color":"rgba(31,119,180,1)","width":[]},"error_x":{"color":"rgba(31,119,180,1)","width":[]},"line":{"color":"rgba(31,119,180,1)"},"xaxis":"x","yaxis":"y","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.2,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Age and experience, on the other hand, are not critical factors for player scores. The distribution of player ages is displayed in the following boxplots.</p>
+<div id="htmlwidget-2" style="width:672px;height:480px;" class="plotly html-widget"></div>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"visdat":{"140d837837f25":["function () ","plotlyVisDat"]},"cur_data":"140d837837f25","attrs":{"140d837837f25":{"y":{},"color":{},"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"box"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"title":"Player Ages in the Teams","yaxis":{"domain":[0,1],"automargin":true,"title":"Age"},"xaxis":{"domain":[0,1],"automargin":true,"title":"Team"},"hovermode":"compare","showlegend":true},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"fillcolor":"rgba(102,194,165,0.5)","y":[24,30,27,25,18,20,27,25,24,23,32,23,25,29,22,29,23,18,26,19,24,22],"type":"box","name":"China","marker":{"color":"rgba(102,194,165,1)","line":{"color":"rgba(102,194,165,1)"}},"line":{"color":"rgba(102,194,165,1)"},"xaxis":"x","yaxis":"y","frame":null},{"fillcolor":"rgba(189,173,133,0.5)","y":[26,30,24,20,24,24,33,22,22,26,27,24,31,26,21,26,27,29,22,24,23,27],"type":"box","name":"USA","marker":{"color":"rgba(189,173,133,1)","line":{"color":"rgba(189,173,133,1)"}},"line":{"color":"rgba(189,173,133,1)"},"xaxis":"x","yaxis":"y","frame":null},{"fillcolor":"rgba(245,146,102,0.5)","y":[31,27,28,26,25,18,30,34,23,30,28,23,25,30,22,29,19],"type":"box","name":"Brazil","marker":{"color":"rgba(245,146,102,1)","line":{"color":"rgba(245,146,102,1)"}},"line":{"color":"rgba(245,146,102,1)"},"xaxis":"x","yaxis":"y","frame":null},{"fillcolor":"rgba(217,150,141,0.5)","y":[21,23,23,24,25,25,19,24,31,30,24,32,23,21,26,18,20],"type":"box","name":"Italy","marker":{"color":"rgba(217,150,141,1)","line":{"color":"rgba(217,150,141,1)"}},"line":{"color":"rgba(217,150,141,1)"},"xaxis":"x","yaxis":"y","frame":null},{"fillcolor":"rgba(162,158,189,0.5)","y":[24,24,22,23,19,24,29,28,22,25,26,31,25,28,20,20],"type":"box","name":"Turkey","marker":{"color":"rgba(162,158,189,1)","line":{"color":"rgba(162,158,189,1)"}},"line":{"color":"rgba(162,158,189,1)"},"xaxis":"x","yaxis":"y","frame":null},{"fillcolor":"rgba(175,154,200,0.5)","y":[25,29,21,28,23,19,23,21,27,24,23,19,27,22,32,30,19],"type":"box","name":"Poland","marker":{"color":"rgba(175,154,200,1)","line":{"color":"rgba(175,154,200,1)"}},"line":{"color":"rgba(175,154,200,1)"},"xaxis":"x","yaxis":"y","frame":null},{"fillcolor":"rgba(215,144,197,0.5)","y":[21,20,19,22,28,23,22,26,22,23,24,23,20,22,24,20],"type":"box","name":"Belgium","marker":{"color":"rgba(215,144,197,1)","line":{"color":"rgba(215,144,197,1)"}},"line":{"color":"rgba(215,144,197,1)"},"xaxis":"x","yaxis":"y","frame":null},{"fillcolor":"rgba(219,162,168,0.5)","y":[32,23,27,28,22,22,23,28,29,29,35,19,21,26],"type":"box","name":"Dominican Republic","marker":{"color":"rgba(219,162,168,1)","line":{"color":"rgba(219,162,168,1)"}},"line":{"color":"rgba(219,162,168,1)"},"xaxis":"x","yaxis":"y","frame":null},{"fillcolor":"rgba(189,198,118,0.5)","y":[21,28,28,28,25,29,27,22,29,19,29,20,29,23,28,26],"type":"box","name":"Japan","marker":{"color":"rgba(189,198,118,1)","line":{"color":"rgba(189,198,118,1)"}},"line":{"color":"rgba(189,198,118,1)"},"xaxis":"x","yaxis":"y","frame":null},{"fillcolor":"rgba(186,217,78,0.5)","y":[25,30,24,21,31,25,22,25,29,25,19,28,25,22,19,25,21,24],"type":"box","name":"Germany","marker":{"color":"rgba(186,217,78,1)","line":{"color":"rgba(186,217,78,1)"}},"line":{"color":"rgba(186,217,78,1)"},"xaxis":"x","yaxis":"y","frame":null},{"fillcolor":"rgba(227,217,62,0.5)","y":[28,19,22,23,24,19,21,18,18,23,27,29,29,31,23,31,28,22,21,19,22,26],"type":"box","name":"Netherlands","marker":{"color":"rgba(227,217,62,1)","line":{"color":"rgba(227,217,62,1)"}},"line":{"color":"rgba(227,217,62,1)"},"xaxis":"x","yaxis":"y","frame":null},{"fillcolor":"rgba(252,214,66,0.5)","y":[24,34,20,28,33,32,34,33,30,36,29,18,35,27,23,35,20],"type":"box","name":"Thailand","marker":{"color":"rgba(252,214,66,1)","line":{"color":"rgba(252,214,66,1)"}},"line":{"color":"rgba(252,214,66,1)"},"xaxis":"x","yaxis":"y","frame":null},{"fillcolor":"rgba(241,204,114,0.5)","y":[22,22,27,19,25,17,28,25,31,21,20,20,22,26,23,21,24,25,22,24,29,26,22],"type":"box","name":"Serbia","marker":{"color":"rgba(241,204,114,1)","line":{"color":"rgba(241,204,114,1)"}},"line":{"color":"rgba(241,204,114,1)"},"xaxis":"x","yaxis":"y","frame":null},{"fillcolor":"rgba(226,195,150,0.5)","y":[27,21,20,29,21,26,32,30,24,22,25,26,21,25,21,17,20,23,25,24,20],"type":"box","name":"Russia","marker":{"color":"rgba(226,195,150,1)","line":{"color":"rgba(226,195,150,1)"}},"line":{"color":"rgba(226,195,150,1)"},"xaxis":"x","yaxis":"y","frame":null},{"fillcolor":"rgba(204,187,165,0.5)","y":[38,23,27,20,28,21,39,31,18,19,27,22,30,32,31,26],"type":"box","name":"Korea","marker":{"color":"rgba(204,187,165,1)","line":{"color":"rgba(204,187,165,1)"}},"line":{"color":"rgba(204,187,165,1)"},"xaxis":"x","yaxis":"y","frame":null},{"fillcolor":"rgba(179,179,179,0.5)","y":[21,23,28,24,31,18,25,22,23,27,25,24,25,22],"type":"box","name":"Bulgaria","marker":{"color":"rgba(179,179,179,1)","line":{"color":"rgba(179,179,179,1)"}},"line":{"color":"rgba(179,179,179,1)"},"xaxis":"x","yaxis":"y","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.2,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>In terms of team performance, the score the ace wins for the team is not deterministic. Not having an absolute primary scorer does not always put a team at a disadvantage. Instead, the match points are more associated with average player score and the team’s defense ability. There is no such thing as too many good receivers on the team. A team also does not need to be all-rounded with excellent blocker, setter, and digger at the same time. However, a reliable spiker is a must-have for a team to actively attack and score. Captain is potentially the most important role on the team but is often not the player who directly contributes most scores. They are usually experienced or skilled such that other teammates trust them in terms of leading the team to victory. In some teams, setters who serve like a bridge between players fit naturally to the role of captain.</p>
+<div id="htmlwidget-3" style="width:672px;height:480px;" class="plotly html-widget"></div>
+<script type="application/json" data-for="htmlwidget-3">{"x":{"data":[{"x":[8,6,1],"y":[16,11,15],"text":["rank:  8<br />team_full: China<br />position: Opposite Spiker<br />skill: Attack","rank:  6<br />team_full: Poland<br />position: Opposite Spiker<br />skill: Attack","rank:  1<br />team_full: USA<br />position: Opposite Spiker<br />skill: Attack"],"type":"scatter","mode":"markers","marker":{"autocolorscale":false,"color":"rgba(102,194,165,1)","opacity":1,"size":5.66929133858268,"symbol":"square","line":{"width":1.88976377952756,"color":"rgba(102,194,165,1)"}},"hoveron":"points","name":"(Attack,Opposite Spiker)","legendgroup":"(Attack,Opposite Spiker)","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"x":[5,2,4,9,10,3,7],"y":[14,9,13,2,5,12,12],"text":["rank:  5<br />team_full: Brazil<br />position: Outside Hitter<br />skill: Attack","rank:  2<br />team_full: Dominican Republic<br />position: Outside Hitter<br />skill: Attack","rank:  4<br />team_full: Italy<br />position: Outside Hitter<br />skill: Attack","rank:  9<br />team_full: Korea<br />position: Outside Hitter<br />skill: Attack","rank: 10<br />team_full: Thailand<br />position: Outside Hitter<br />skill: Attack","rank:  3<br />team_full: Turkey<br />position: Outside Hitter<br />skill: Attack","rank:  7<br />team_full: Turkey<br />position: Outside Hitter<br />skill: Attack"],"type":"scatter","mode":"markers","marker":{"autocolorscale":false,"color":"rgba(102,194,165,1)","opacity":1,"size":5.66929133858268,"symbol":"cross-thin-open","line":{"width":1.88976377952756,"color":"rgba(102,194,165,1)"}},"hoveron":"points","name":"(Attack,Outside Hitter)","legendgroup":"(Attack,Outside Hitter)","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"x":[10,2,5,4,7,3,1,8],"y":[10,14,1,1,6,11,4,12],"text":["rank: 10<br />team_full: Belgium<br />position: Middle Blocker<br />skill: Block","rank:  2<br />team_full: Brazil<br />position: Middle Blocker<br />skill: Block","rank:  5<br />team_full: Bulgaria<br />position: Middle Blocker<br />skill: Block","rank:  4<br />team_full: Bulgaria<br />position: Middle Blocker<br />skill: Block","rank:  7<br />team_full: Netherlands<br />position: Middle Blocker<br />skill: Block","rank:  3<br />team_full: Poland<br />position: Middle Blocker<br />skill: Block","rank:  1<br />team_full: Serbia<br />position: Middle Blocker<br />skill: Block","rank:  8<br />team_full: Turkey<br />position: Middle Blocker<br />skill: Block"],"type":"scatter","mode":"markers","marker":{"autocolorscale":false,"color":"rgba(252,141,98,1)","opacity":1,"size":5.66929133858268,"symbol":"triangle-up","line":{"width":1.88976377952756,"color":"rgba(252,141,98,1)"}},"hoveron":"points","name":"(Block,Middle Blocker)","legendgroup":"(Block,Middle Blocker)","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"x":[9],"y":[7],"text":"rank:  9<br />team_full: Germany<br />position: Opposite Spiker<br />skill: Block","type":"scatter","mode":"markers","marker":{"autocolorscale":false,"color":"rgba(252,141,98,1)","opacity":1,"size":5.66929133858268,"symbol":"square","line":{"width":1.88976377952756,"color":"rgba(252,141,98,1)"}},"hoveron":"points","name":"(Block,Opposite Spiker)","legendgroup":"(Block,Opposite Spiker)","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"x":[6],"y":[9],"text":"rank:  6<br />team_full: Dominican Republic<br />position: Outside Hitter<br />skill: Block","type":"scatter","mode":"markers","marker":{"autocolorscale":false,"color":"rgba(252,141,98,1)","opacity":1,"size":5.66929133858268,"symbol":"cross-thin-open","line":{"width":1.88976377952756,"color":"rgba(252,141,98,1)"}},"hoveron":"points","name":"(Block,Outside Hitter)","legendgroup":"(Block,Outside Hitter)","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"x":[7,2,1,10,3,9],"y":[14,1,7,13,8,12],"text":["rank:  7<br />team_full: Brazil<br />position: Libero<br />skill: Dig","rank:  2<br />team_full: Bulgaria<br />position: Libero<br />skill: Dig","rank:  1<br />team_full: Germany<br />position: Libero<br />skill: Dig","rank: 10<br />team_full: Italy<br />position: Libero<br />skill: Dig","rank:  3<br />team_full: Japan<br />position: Libero<br />skill: Dig","rank:  9<br />team_full: Turkey<br />position: Libero<br />skill: Dig"],"type":"scatter","mode":"markers","marker":{"autocolorscale":false,"color":"rgba(141,160,203,1)","opacity":1,"size":5.66929133858268,"symbol":"circle","line":{"width":1.88976377952756,"color":"rgba(141,160,203,1)"}},"hoveron":"points","name":"(Dig,Libero)","legendgroup":"(Dig,Libero)","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"x":[5,6,4],"y":[10,1,9],"text":["rank:  5<br />team_full: Belgium<br />position: Outside Hitter<br />skill: Dig","rank:  6<br />team_full: Bulgaria<br />position: Outside Hitter<br />skill: Dig","rank:  4<br />team_full: Dominican Republic<br />position: Outside Hitter<br />skill: Dig"],"type":"scatter","mode":"markers","marker":{"autocolorscale":false,"color":"rgba(141,160,203,1)","opacity":1,"size":5.66929133858268,"symbol":"cross-thin-open","line":{"width":1.88976377952756,"color":"rgba(141,160,203,1)"}},"hoveron":"points","name":"(Dig,Outside Hitter)","legendgroup":"(Dig,Outside Hitter)","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"x":[8],"y":[5],"text":"rank:  8<br />team_full: Thailand<br />position: Setter<br />skill: Dig","type":"scatter","mode":"markers","marker":{"autocolorscale":false,"color":"rgba(141,160,203,1)","opacity":1,"size":5.66929133858268,"symbol":"square-x-open","line":{"width":1.88976377952756,"color":"rgba(141,160,203,1)"}},"hoveron":"points","name":"(Dig,Setter)","legendgroup":"(Dig,Setter)","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"x":[4,5,6,9,2,8,7,10,1,3],"y":[10,14,9,13,8,2,6,3,5,12],"text":["rank:  4<br />team_full: Belgium<br />position: Setter<br />skill: Set","rank:  5<br />team_full: Brazil<br />position: Setter<br />skill: Set","rank:  6<br />team_full: Dominican Republic<br />position: Setter<br />skill: Set","rank:  9<br />team_full: Italy<br />position: Setter<br />skill: Set","rank:  2<br />team_full: Japan<br />position: Setter<br />skill: Set","rank:  8<br />team_full: Korea<br />position: Setter<br />skill: Set","rank:  7<br />team_full: Netherlands<br />position: Setter<br />skill: Set","rank: 10<br />team_full: Russia<br />position: Setter<br />skill: Set","rank:  1<br />team_full: Thailand<br />position: Setter<br />skill: Set","rank:  3<br />team_full: Turkey<br />position: Setter<br />skill: Set"],"type":"scatter","mode":"markers","marker":{"autocolorscale":false,"color":"rgba(231,138,195,1)","opacity":1,"size":5.66929133858268,"symbol":"square-x-open","line":{"width":1.88976377952756,"color":"rgba(231,138,195,1)"}},"hoveron":"points","name":"(Set,Setter)","legendgroup":"(Set,Setter)","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null}],"layout":{"margin":{"t":43.7625570776256,"r":7.30593607305936,"b":40.1826484018265,"l":130.776255707763},"plot_bgcolor":"rgba(255,255,255,1)","paper_bgcolor":"rgba(255,255,255,1)","font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187},"title":{"text":"Composition of Top 10 Players with 4 Tactical Skills By Teams","font":{"color":"rgba(0,0,0,1)","family":"","size":17.5342465753425},"x":0,"xref":"paper"},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.55,10.45],"tickmode":"array","ticktext":["1","2","3","4","5","6","7","8","9","10"],"tickvals":[1,2,3,4,5,6,7,8,9,10],"categoryorder":"array","categoryarray":["1","2","3","4","5","6","7","8","9","10"],"nticks":null,"ticks":"outside","tickcolor":"rgba(179,179,179,1)","ticklen":3.65296803652968,"tickwidth":0.33208800332088,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.689497716895},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(222,222,222,1)","gridwidth":0.33208800332088,"zeroline":false,"anchor":"y","title":{"text":"Player Skill Rank","font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.4,16.6],"tickmode":"array","ticktext":["Bulgaria","Korea","Russia","Serbia","Thailand","Netherlands","Germany","Japan","Dominican Republic","Belgium","Poland","Turkey","Italy","Brazil","USA","China"],"tickvals":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],"categoryorder":"array","categoryarray":["Bulgaria","Korea","Russia","Serbia","Thailand","Netherlands","Germany","Japan","Dominican Republic","Belgium","Poland","Turkey","Italy","Brazil","USA","China"],"nticks":null,"ticks":"outside","tickcolor":"rgba(179,179,179,1)","ticklen":3.65296803652968,"tickwidth":0.33208800332088,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.689497716895},"tickangle":-0,"showline":false,"linecolor":null,"linewidth":0,"showgrid":true,"gridcolor":"rgba(222,222,222,1)","gridwidth":0.33208800332088,"zeroline":false,"anchor":"x","title":{"text":"Team","font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":"transparent","line":{"color":"rgba(179,179,179,1)","width":0.66417600664176,"linetype":"solid"},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":true,"legend":{"bgcolor":"rgba(255,255,255,1)","bordercolor":"transparent","borderwidth":1.88976377952756,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.689497716895},"title":{"text":"skill<br />position","font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187}}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"source":"A","attrs":{"140d82627b2e7":{"x":{},"y":{},"shape":{},"colour":{},"type":"scatter"}},"cur_data":"140d82627b2e7","visdat":{"140d82627b2e7":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.2,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Although it is undeniable players’ individual capability is important for the game, team collaboration is the essence of volleyball. Depending on player skills and characteristics, different teams can arrange different strategies focusing on offense or defense. All players at all positions contribute to the game together and none of the positions is absolutely superior to another.</p>
+<p><em>Check the full report <a href="project_midterm.html">here</a></em></p>
+</div>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/data-analysis/">data analysis</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://avery7li.github.io/project/volleyball_analysis/&amp;text=Volleyball%20as%20a%20Team%20Sport" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://avery7li.github.io/project/volleyball_analysis/&amp;t=Volleyball%20as%20a%20Team%20Sport" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Volleyball%20as%20a%20Team%20Sport&amp;body=https://avery7li.github.io/project/volleyball_analysis/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://avery7li.github.io/project/volleyball_analysis/&amp;title=Volleyball%20as%20a%20Team%20Sport" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Volleyball%20as%20a%20Team%20Sport%20https://avery7li.github.io/project/volleyball_analysis/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://avery7li.github.io/project/volleyball_analysis/&amp;title=Volleyball%20as%20a%20Team%20Sport" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/project/space-usage-analysis/">Understanding Space Usage</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+  <p class="powered-by">
+    © 2022 Zhengdan Li
+  </p>
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.d26cbef546776b4d6032d1ea3dafadab.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/python.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.6b73888494485d3b0874ca2ec83f614f.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.eb9fa731a64f4da20162120fc4b9bcbf.js"></script>
+
+    
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+
+</body>
+</html>

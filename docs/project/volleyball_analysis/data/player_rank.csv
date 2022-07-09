@@ -1,0 +1,1056 @@
+team,name,rank,skill,value,position,is_captain,team_rank,team_full
+BEL,Anna Valkenborg,61,Set,0.09,Libero,0,7,Belgium
+BEL,Anna Valkenborg,62,Dig,1.3,Libero,0,7,Belgium
+BEL,Britt Herbots,13,Attack,40.67,Outside Hitter,0,7,Belgium
+BEL,Britt Herbots,132,Set,0.04,Outside Hitter,0,7,Belgium
+BEL,Britt Herbots,25,Dig,1.82,Outside Hitter,0,7,Belgium
+BEL,Britt Herbots,52,Block,0.23,Outside Hitter,0,7,Belgium
+BEL,Britt Rampelberg,278,Dig,0.02,Libero,0,7,Belgium
+BEL,Celine Van Gestel,31,Attack,32.75,Outside Hitter,0,7,Belgium
+BEL,Celine Van Gestel,54,Set,0.11,Outside Hitter,0,7,Belgium
+BEL,Celine Van Gestel,5,Dig,2.68,Outside Hitter,0,7,Belgium
+BEL,Celine Van Gestel,24,Block,0.39,Outside Hitter,0,7,Belgium
+BEL,Dominika Sobolska,37,Attack,,Middle Blocker,0,7,Belgium
+BEL,Dominika Sobolska,133,Set,0.04,Middle Blocker,0,7,Belgium
+BEL,Dominika Sobolska,145,Dig,0.51,Middle Blocker,0,7,Belgium
+BEL,Dominika Sobolska,32,Block,0.32,Middle Blocker,0,7,Belgium
+BEL,Dominika Strumilo,38,Attack,,Outside Hitter,0,7,Belgium
+BEL,Dominika Strumilo,204,Set,,Outside Hitter,0,7,Belgium
+BEL,Dominika Strumilo,210,Dig,0.19,Outside Hitter,0,7,Belgium
+BEL,Dominika Strumilo,209,Block,0.02,Outside Hitter,0,7,Belgium
+BEL,Elise Van Sas,35,Attack,,Setter,0,7,Belgium
+BEL,Elise Van Sas,50,Set,0.12,Setter,0,7,Belgium
+BEL,Elise Van Sas,252,Dig,0.07,Setter,0,7,Belgium
+BEL,Elise Van Sas,208,Block,0.02,Setter,0,7,Belgium
+BEL,Ilka Van De Vyver,42,Attack,,Setter,1,7,Belgium
+BEL,Ilka Van De Vyver,4,Set,5.04,Setter,1,7,Belgium
+BEL,Ilka Van De Vyver,17,Dig,2,Setter,1,7,Belgium
+BEL,Ilka Van De Vyver,97,Block,0.14,Setter,1,7,Belgium
+BEL,Jodie Guilliams,44,Attack,,Outside Hitter,0,7,Belgium
+BEL,Jodie Guilliams,55,Set,0.11,Outside Hitter,0,7,Belgium
+BEL,Jodie Guilliams,33,Dig,1.72,Outside Hitter,0,7,Belgium
+BEL,Jodie Guilliams,210,Block,0.02,Outside Hitter,0,7,Belgium
+BEL,Jutta Van De Vyver,40,Attack,,Setter,0,7,Belgium
+BEL,Jutta Van De Vyver,43,Set,0.26,Setter,0,7,Belgium
+BEL,Jutta Van De Vyver,211,Dig,0.19,Setter,0,7,Belgium
+BEL,Jutta Van De Vyver,218,Block,,Setter,0,7,Belgium
+BEL,Kaja Grobelna,25,Attack,36.09,Opposite Spiker,0,7,Belgium
+BEL,Kaja Grobelna,102,Set,0.05,Opposite Spiker,0,7,Belgium
+BEL,Kaja Grobelna,47,Dig,1.46,Opposite Spiker,0,7,Belgium
+BEL,Kaja Grobelna,28,Block,0.35,Opposite Spiker,0,7,Belgium
+BEL,Karolina Goliat,41,Attack,,Opposite Spiker,0,7,Belgium
+BEL,Karolina Goliat,205,Set,,Opposite Spiker,0,7,Belgium
+BEL,Karolina Goliat,204,Dig,0.23,Opposite Spiker,0,7,Belgium
+BEL,Karolina Goliat,185,Block,0.04,Opposite Spiker,0,7,Belgium
+BEL,Manon Stragier,45,Attack,,Outside Hitter,0,7,Belgium
+BEL,Manon Stragier,206,Set,,Outside Hitter,0,7,Belgium
+BEL,Manon Stragier,239,Dig,0.11,Outside Hitter,0,7,Belgium
+BEL,Manon Stragier,219,Block,,Outside Hitter,0,7,Belgium
+BEL,Marlies Janssens,39,Attack,,Middle Blocker,0,7,Belgium
+BEL,Marlies Janssens,103,Set,0.05,Middle Blocker,0,7,Belgium
+BEL,Marlies Janssens,114,Dig,0.72,Middle Blocker,0,7,Belgium
+BEL,Marlies Janssens,10,Block,0.51,Middle Blocker,0,7,Belgium
+BEL,Nathalie Lemmens,36,Attack,,Middle Blocker,0,7,Belgium
+BEL,Nathalie Lemmens,175,Set,0.02,Middle Blocker,0,7,Belgium
+BEL,Nathalie Lemmens,263,Dig,0.04,Middle Blocker,0,7,Belgium
+BEL,Nathalie Lemmens,143,Block,0.07,Middle Blocker,0,7,Belgium
+BEL,Silke Van Avermaet,43,Attack,,Middle Blocker,0,7,Belgium
+BEL,Silke Van Avermaet,176,Set,0.02,Middle Blocker,0,7,Belgium
+BEL,Silke Van Avermaet,205,Dig,0.23,Middle Blocker,0,7,Belgium
+BEL,Silke Van Avermaet,98,Block,0.14,Middle Blocker,0,7,Belgium
+BRA,Amanda Francisco,53,Attack,,Outside Hitter,0,3,Brazil
+BRA,Amanda Francisco,116,Set,0.04,Outside Hitter,0,3,Brazil
+BRA,Amanda Francisco,74,Dig,1.05,Outside Hitter,0,3,Brazil
+BRA,Amanda Francisco,131,Block,0.08,Outside Hitter,0,3,Brazil
+BRA,Ana Beatriz Correa,55,Attack,,Middle Blocker,0,3,Brazil
+BRA,Ana Beatriz Correa,78,Set,0.07,Middle Blocker,0,3,Brazil
+BRA,Ana Beatriz Correa,107,Dig,0.78,Middle Blocker,0,3,Brazil
+BRA,Ana Beatriz Correa,2,Block,0.7,Middle Blocker,0,3,Brazil
+BRA,Ana Carolina Da Silva,54,Attack,,Middle Blocker,0,3,Brazil
+BRA,Ana Carolina Da Silva,208,Set,,Middle Blocker,0,3,Brazil
+BRA,Ana Carolina Da Silva,283,Dig,0.01,Middle Blocker,0,3,Brazil
+BRA,Ana Carolina Da Silva,198,Block,0.03,Middle Blocker,0,3,Brazil
+BRA,Ana Paula Borgo Bedani Guedes,15,Attack,38.7,Opposite Spiker,0,3,Brazil
+BRA,Ana Paula Borgo Bedani Guedes,198,Set,0.01,Opposite Spiker,0,3,Brazil
+BRA,Ana Paula Borgo Bedani Guedes,90,Dig,0.92,Opposite Spiker,0,3,Brazil
+BRA,Ana Paula Borgo Bedani Guedes,65,Block,0.19,Opposite Spiker,0,3,Brazil
+BRA,Gabriela Braga Guimaraes,5,Attack,43.9,Outside Hitter,0,3,Brazil
+BRA,Gabriela Braga Guimaraes,152,Set,0.03,Outside Hitter,0,3,Brazil
+BRA,Gabriela Braga Guimaraes,20,Dig,1.97,Outside Hitter,0,3,Brazil
+BRA,Gabriela Braga Guimaraes,22,Block,0.4,Outside Hitter,0,3,Brazil
+BRA,Julia Isabelle Bergmann,49,Attack,,Outside Hitter,0,3,Brazil
+BRA,Julia Isabelle Bergmann,199,Set,0.01,Outside Hitter,0,3,Brazil
+BRA,Julia Isabelle Bergmann,253,Dig,0.07,Outside Hitter,0,3,Brazil
+BRA,Julia Isabelle Bergmann,216,Block,0.01,Outside Hitter,0,3,Brazil
+BRA,Lara Nobre Cardoso G Filomeno,48,Attack,,Middle Blocker,0,3,Brazil
+BRA,Lara Nobre Cardoso G Filomeno,282,Dig,0.01,Middle Blocker,0,3,Brazil
+BRA,Lara Nobre Cardoso G Filomeno,215,Block,0.01,Middle Blocker,0,3,Brazil
+BRA,Leia Henrique Da Silva Nicolosi,101,Set,0.05,Libero,0,3,Brazil
+BRA,Leia Henrique Da Silva Nicolosi,7,Dig,2.6,Libero,0,3,Brazil
+BRA,Lorenne Geraldo Teixeira,56,Attack,,Opposite Spiker,0,3,Brazil
+BRA,Lorenne Geraldo Teixeira,153,Set,0.03,Opposite Spiker,0,3,Brazil
+BRA,Lorenne Geraldo Teixeira,137,Dig,0.55,Opposite Spiker,0,3,Brazil
+BRA,Lorenne Geraldo Teixeira,81,Block,0.16,Opposite Spiker,0,3,Brazil
+BRA,Macris Fernanda Silva Carneiro,47,Attack,,Setter,0,3,Brazil
+BRA,Macris Fernanda Silva Carneiro,5,Set,4.9,Setter,0,3,Brazil
+BRA,Macris Fernanda Silva Carneiro,34,Dig,1.68,Setter,0,3,Brazil
+BRA,Macris Fernanda Silva Carneiro,160,Block,0.05,Setter,0,3,Brazil
+BRA,Mara Ferreira Leao,46,Attack,,Middle Blocker,0,3,Brazil
+BRA,Mara Ferreira Leao,115,Set,0.04,Middle Blocker,0,3,Brazil
+BRA,Mara Ferreira Leao,136,Dig,0.55,Middle Blocker,0,3,Brazil
+BRA,Mara Ferreira Leao,42,Block,0.27,Middle Blocker,0,3,Brazil
+BRA,Mayany Cristina Araujo De Souza,58,Attack,,Middle Blocker,0,3,Brazil
+BRA,Mayany Cristina Araujo De Souza,210,Set,,Middle Blocker,0,3,Brazil
+BRA,Mayany Cristina Araujo De Souza,245,Dig,0.08,Middle Blocker,0,3,Brazil
+BRA,Mayany Cristina Araujo De Souza,72,Block,0.18,Middle Blocker,0,3,Brazil
+BRA,Milka Marcília Medeiros Silva,57,Attack,,Middle Blocker,0,3,Brazil
+BRA,Milka Marcília Medeiros Silva,220,Block,,Middle Blocker,0,3,Brazil
+BRA,Natalia Pereira,52,Attack,,Outside Hitter,1,3,Brazil
+BRA,Natalia Pereira,200,Set,0.01,Outside Hitter,1,3,Brazil
+BRA,Natalia Pereira,95,Dig,0.88,Outside Hitter,1,3,Brazil
+BRA,Natalia Pereira,59,Block,0.22,Outside Hitter,1,3,Brazil
+BRA,Natália Araujo,209,Set,,Libero,0,3,Brazil
+BRA,Natália Araujo,185,Dig,0.3,Libero,0,3,Brazil
+BRA,Roberta Silva Ratzke,50,Attack,,Setter,0,3,Brazil
+BRA,Roberta Silva Ratzke,28,Set,1.32,Setter,0,3,Brazil
+BRA,Roberta Silva Ratzke,133,Dig,0.56,Setter,0,3,Brazil
+BRA,Roberta Silva Ratzke,217,Block,0.01,Setter,0,3,Brazil
+BRA,Tainara Lemes Santos,51,Attack,,Outside Hitter,0,3,Brazil
+BRA,Tainara Lemes Santos,207,Set,,Outside Hitter,0,3,Brazil
+BRA,Tainara Lemes Santos,180,Dig,0.32,Outside Hitter,0,3,Brazil
+BRA,Tainara Lemes Santos,161,Block,0.05,Outside Hitter,0,3,Brazil
+BUL,Elena Becheva,66,Attack,,Opposite Spiker,0,16,Bulgaria
+BUL,Elena Becheva,212,Set,,Opposite Spiker,0,16,Bulgaria
+BUL,Elena Becheva,276,Dig,0.02,Opposite Spiker,0,16,Bulgaria
+BUL,Elena Becheva,221,Block,,Opposite Spiker,0,16,Bulgaria
+BUL,Gergana Dimitrova,30,Attack,32.83,Outside Hitter,1,16,Bulgaria
+BUL,Gergana Dimitrova,93,Set,0.06,Outside Hitter,1,16,Bulgaria
+BUL,Gergana Dimitrova,16,Dig,2.02,Outside Hitter,1,16,Bulgaria
+BUL,Gergana Dimitrova,64,Block,0.2,Outside Hitter,1,16,Bulgaria
+BUL,Lora Kitipova,62,Attack,,Setter,0,16,Bulgaria
+BUL,Lora Kitipova,14,Set,2.43,Setter,0,16,Bulgaria
+BUL,Lora Kitipova,87,Dig,0.94,Setter,0,16,Bulgaria
+BUL,Lora Kitipova,179,Block,0.04,Setter,0,16,Bulgaria
+BUL,Maria Dancheva,60,Attack,,Opposite Spiker,0,16,Bulgaria
+BUL,Maria Dancheva,169,Set,0.02,Opposite Spiker,0,16,Bulgaria
+BUL,Maria Dancheva,170,Dig,0.35,Opposite Spiker,0,16,Bulgaria
+BUL,Maria Dancheva,92,Block,0.15,Opposite Spiker,0,16,Bulgaria
+BUL,Mariya Karakasheva,65,Attack,,Outside Hitter,0,16,Bulgaria
+BUL,Mariya Karakasheva,211,Set,,Outside Hitter,0,16,Bulgaria
+BUL,Mariya Karakasheva,227,Dig,0.15,Outside Hitter,0,16,Bulgaria
+BUL,Mariya Karakasheva,155,Block,0.06,Outside Hitter,0,16,Bulgaria
+BUL,Mariya Krivoshiyska,68,Attack,,Middle Blocker,0,16,Bulgaria
+BUL,Mariya Krivoshiyska,213,Set,,Middle Blocker,0,16,Bulgaria
+BUL,Mariya Krivoshiyska,277,Dig,0.02,Middle Blocker,0,16,Bulgaria
+BUL,Mariya Krivoshiyska,141,Block,0.07,Middle Blocker,0,16,Bulgaria
+BUL,Mira Todorova,64,Attack,,Middle Blocker,0,16,Bulgaria
+BUL,Mira Todorova,170,Set,0.02,Middle Blocker,0,16,Bulgaria
+BUL,Mira Todorova,135,Dig,0.56,Middle Blocker,0,16,Bulgaria
+BUL,Mira Todorova,5,Block,0.57,Middle Blocker,0,16,Bulgaria
+BUL,Mirela Shahpazova,171,Set,0.02,Setter,0,16,Bulgaria
+BUL,Mirela Shahpazova,284,Dig,,Setter,0,16,Bulgaria
+BUL,Miroslava Paskova,29,Attack,32.98,Outside Hitter,0,16,Bulgaria
+BUL,Miroslava Paskova,57,Set,0.09,Outside Hitter,0,16,Bulgaria
+BUL,Miroslava Paskova,6,Dig,2.65,Outside Hitter,0,16,Bulgaria
+BUL,Miroslava Paskova,79,Block,0.17,Outside Hitter,0,16,Bulgaria
+BUL,Nasya Dimitrova,59,Attack,,Middle Blocker,0,16,Bulgaria
+BUL,Nasya Dimitrova,94,Set,0.06,Middle Blocker,0,16,Bulgaria
+BUL,Nasya Dimitrova,91,Dig,0.89,Middle Blocker,0,16,Bulgaria
+BUL,Nasya Dimitrova,4,Block,0.57,Middle Blocker,0,16,Bulgaria
+BUL,Petya Barakova,63,Attack,,Setter,0,16,Bulgaria
+BUL,Petya Barakova,11,Set,3.89,Setter,0,16,Bulgaria
+BUL,Petya Barakova,38,Dig,1.67,Setter,0,16,Bulgaria
+BUL,Petya Barakova,123,Block,0.09,Setter,0,16,Bulgaria
+BUL,Silvana Chausheva,67,Attack,,Outside Hitter,0,16,Bulgaria
+BUL,Silvana Chausheva,71,Set,0.07,Outside Hitter,0,16,Bulgaria
+BUL,Silvana Chausheva,78,Dig,1.02,Outside Hitter,0,16,Bulgaria
+BUL,Silvana Chausheva,80,Block,0.17,Outside Hitter,0,16,Bulgaria
+BUL,Simona Dimitrova,61,Attack,,Outside Hitter,0,16,Bulgaria
+BUL,Simona Dimitrova,125,Set,0.04,Outside Hitter,0,16,Bulgaria
+BUL,Simona Dimitrova,98,Dig,0.83,Outside Hitter,0,16,Bulgaria
+BUL,Simona Dimitrova,122,Block,0.09,Outside Hitter,0,16,Bulgaria
+BUL,Zhana Todorova,40,Set,0.37,Libero,0,16,Bulgaria
+BUL,Zhana Todorova,2,Dig,3.48,Libero,0,16,Bulgaria
+CHN,Changning Zhang,76,Attack,,Outside Hitter,0,1,China
+CHN,Changning Zhang,184,Set,0.02,Outside Hitter,0,1,China
+CHN,Changning Zhang,109,Dig,0.77,Outside Hitter,0,1,China
+CHN,Changning Zhang,41,Block,0.28,Outside Hitter,0,1,China
+CHN,Chunlei Zeng,75,Attack,,Opposite Spiker,0,1,China
+CHN,Chunlei Zeng,141,Set,0.03,Opposite Spiker,0,1,China
+CHN,Chunlei Zeng,149,Dig,0.49,Opposite Spiker,0,1,China
+CHN,Chunlei Zeng,148,Block,0.06,Opposite Spiker,0,1,China
+CHN,Di Yao,78,Attack,,Setter,0,1,China
+CHN,Di Yao,21,Set,1.91,Setter,0,1,China
+CHN,Di Yao,110,Dig,0.77,Setter,0,1,China
+CHN,Di Yao,192,Block,0.03,Setter,0,1,China
+CHN,Fang Duan,84,Attack,,Outside Hitter,0,1,China
+CHN,Fang Duan,220,Set,,Outside Hitter,0,1,China
+CHN,Fang Duan,215,Dig,0.18,Outside Hitter,0,1,China
+CHN,Fang Duan,193,Block,0.03,Outside Hitter,0,1,China
+CHN,Feifan Ni,143,Set,0.03,Libero,0,1,China
+CHN,Feifan Ni,130,Dig,0.6,Libero,0,1,China
+CHN,Hanyu Yang,72,Attack,,Middle Blocker,0,1,China
+CHN,Hanyu Yang,183,Set,0.02,Middle Blocker,0,1,China
+CHN,Hanyu Yang,226,Dig,0.15,Middle Blocker,0,1,China
+CHN,Hanyu Yang,135,Block,0.08,Middle Blocker,0,1,China
+CHN,Li Lin,112,Set,0.05,Libero,0,1,China
+CHN,Li Lin,55,Dig,1.37,Libero,0,1,China
+CHN,Linyu Diao,71,Attack,,Setter,0,1,China
+CHN,Linyu Diao,26,Set,1.42,Setter,0,1,China
+CHN,Linyu Diao,159,Dig,0.43,Setter,0,1,China
+CHN,Linyu Diao,147,Block,0.06,Setter,0,1,China
+CHN,Mengjie Wang,80,Set,0.06,Libero,0,1,China
+CHN,Mengjie Wang,63,Dig,1.28,Libero,0,1,China
+CHN,Mingyuan Hu,73,Attack,,Middle Blocker,0,1,China
+CHN,Mingyuan Hu,216,Set,,Middle Blocker,0,1,China
+CHN,Mingyuan Hu,187,Dig,0.29,Middle Blocker,0,1,China
+CHN,Mingyuan Hu,62,Block,0.22,Middle Blocker,0,1,China
+CHN,Ni Yan,82,Attack,,Middle Blocker,0,1,China
+CHN,Ni Yan,219,Set,,Middle Blocker,0,1,China
+CHN,Ni Yan,221,Dig,0.17,Middle Blocker,0,1,China
+CHN,Ni Yan,51,Block,0.25,Middle Blocker,0,1,China
+CHN,Qingqing Du,85,Attack,,Opposite Spiker,0,1,China
+CHN,Qingqing Du,187,Set,0.02,Opposite Spiker,0,1,China
+CHN,Qingqing Du,209,Dig,0.2,Opposite Spiker,0,1,China
+CHN,Qingqing Du,213,Block,0.02,Opposite Spiker,0,1,China
+CHN,Ting Zhu,70,Attack,,Outside Hitter,0,1,China
+CHN,Ting Zhu,215,Set,,Outside Hitter,0,1,China
+CHN,Ting Zhu,103,Dig,0.8,Outside Hitter,0,1,China
+CHN,Ting Zhu,101,Block,0.14,Outside Hitter,0,1,China
+CHN,Xia Ding,81,Attack,,Setter,0,1,China
+CHN,Xia Ding,15,Set,2.2,Setter,0,1,China
+CHN,Xia Ding,106,Dig,0.78,Setter,0,1,China
+CHN,Xia Ding,149,Block,0.06,Setter,0,1,China
+CHN,Xiangyu Gong,8,Attack,43.24,Opposite Spiker,0,1,China
+CHN,Xiangyu Gong,111,Set,0.05,Opposite Spiker,0,1,China
+CHN,Xiangyu Gong,37,Dig,1.68,Opposite Spiker,0,1,China
+CHN,Xiangyu Gong,40,Block,0.28,Opposite Spiker,0,1,China
+CHN,Xiaotong Liu,77,Attack,,Outside Hitter,1,1,China
+CHN,Xiaotong Liu,217,Set,,Outside Hitter,1,1,China
+CHN,Xiaotong Liu,131,Dig,0.57,Outside Hitter,1,1,China
+CHN,Xiaotong Liu,191,Block,0.03,Outside Hitter,1,1,China
+CHN,Xinyue Yuan,69,Attack,,Middle Blocker,0,1,China
+CHN,Xinyue Yuan,214,Set,,Middle Blocker,0,1,China
+CHN,Xinyue Yuan,203,Dig,0.23,Middle Blocker,0,1,China
+CHN,Xinyue Yuan,15,Block,0.48,Middle Blocker,0,1,China
+CHN,Yan Sun,142,Set,0.03,Setter,0,1,China
+CHN,Yan Sun,267,Dig,0.03,Setter,0,1,China
+CHN,Yanhan Liu,83,Attack,,Outside Hitter,0,1,China
+CHN,Yanhan Liu,186,Set,0.02,Outside Hitter,0,1,China
+CHN,Yanhan Liu,80,Dig,1.02,Outside Hitter,0,1,China
+CHN,Yanhan Liu,115,Block,0.11,Outside Hitter,0,1,China
+CHN,Ye Jin,86,Attack,,Outside Hitter,0,1,China
+CHN,Yingying Li,79,Attack,,Outside Hitter,0,1,China
+CHN,Yingying Li,185,Set,0.02,Outside Hitter,0,1,China
+CHN,Yingying Li,116,Dig,0.69,Outside Hitter,0,1,China
+CHN,Yingying Li,126,Block,0.09,Outside Hitter,0,1,China
+CHN,Yixin Zheng,80,Attack,,Middle Blocker,0,1,China
+CHN,Yixin Zheng,218,Set,,Middle Blocker,0,1,China
+CHN,Yixin Zheng,229,Dig,0.14,Middle Blocker,0,1,China
+CHN,Yixin Zheng,127,Block,0.09,Middle Blocker,0,1,China
+CHN,Yuanyuan Wang,74,Attack,,Middle Blocker,0,1,China
+CHN,Yuanyuan Wang,140,Set,0.03,Middle Blocker,0,1,China
+CHN,Yuanyuan Wang,247,Dig,0.08,Middle Blocker,0,1,China
+CHN,Yuanyuan Wang,69,Block,0.18,Middle Blocker,0,1,China
+DOM,Bethania De La Cruz De Peña,19,Attack,37.68,Outside Hitter,0,8,Dominican Republic
+DOM,Bethania De La Cruz De Peña,109,Set,0.05,Outside Hitter,0,8,Dominican Republic
+DOM,Bethania De La Cruz De Peña,41,Dig,1.63,Outside Hitter,0,8,Dominican Republic
+DOM,Bethania De La Cruz De Peña,6,Block,0.55,Outside Hitter,0,8,Dominican Republic
+DOM,Brayelin Elizabeth Martinez,2,Attack,47.57,Outside Hitter,0,8,Dominican Republic
+DOM,Brayelin Elizabeth Martinez,138,Set,0.03,Outside Hitter,0,8,Dominican Republic
+DOM,Brayelin Elizabeth Martinez,14,Dig,2.06,Outside Hitter,0,8,Dominican Republic
+DOM,Brayelin Elizabeth Martinez,38,Block,0.3,Outside Hitter,0,8,Dominican Republic
+DOM,Candida Estefany Arias Perez,89,Attack,,Middle Blocker,0,8,Dominican Republic
+DOM,Candida Estefany Arias Perez,180,Set,0.02,Middle Blocker,0,8,Dominican Republic
+DOM,Candida Estefany Arias Perez,198,Dig,0.25,Middle Blocker,0,8,Dominican Republic
+DOM,Candida Estefany Arias Perez,20,Block,0.44,Middle Blocker,0,8,Dominican Republic
+DOM,Erasma Moreno Martinez,95,Attack,,Outside Hitter,0,8,Dominican Republic
+DOM,Erasma Moreno Martinez,280,Dig,0.02,Outside Hitter,0,8,Dominican Republic
+DOM,Erasma Moreno Martinez,212,Block,0.02,Outside Hitter,0,8,Dominican Republic
+DOM,Gaila Ceneida Gonzalez Lopez,96,Attack,,Opposite Spiker,0,8,Dominican Republic
+DOM,Gaila Ceneida Gonzalez Lopez,221,Set,,Opposite Spiker,0,8,Dominican Republic
+DOM,Gaila Ceneida Gonzalez Lopez,101,Dig,0.81,Opposite Spiker,0,8,Dominican Republic
+DOM,Gaila Ceneida Gonzalez Lopez,87,Block,0.16,Opposite Spiker,0,8,Dominican Republic
+DOM,Jineiry Martinez,94,Attack,,Middle Blocker,0,8,Dominican Republic
+DOM,Jineiry Martinez,139,Set,0.03,Middle Blocker,0,8,Dominican Republic
+DOM,Jineiry Martinez,154,Dig,0.47,Middle Blocker,0,8,Dominican Republic
+DOM,Jineiry Martinez,13,Block,0.48,Middle Blocker,0,8,Dominican Republic
+DOM,Larysmer Martinez Caro,110,Set,0.05,Outside Hitter,0,8,Dominican Republic
+DOM,Larysmer Martinez Caro,4,Dig,2.72,Outside Hitter,0,8,Dominican Republic
+DOM,Lisvel Elisa Eve Mejia,87,Attack,,Opposite Spiker,0,8,Dominican Republic
+DOM,Lisvel Elisa Eve Mejia,108,Set,0.05,Opposite Spiker,0,8,Dominican Republic
+DOM,Lisvel Elisa Eve Mejia,49,Dig,1.44,Opposite Spiker,0,8,Dominican Republic
+DOM,Lisvel Elisa Eve Mejia,11,Block,0.5,Opposite Spiker,0,8,Dominican Republic
+DOM,Marifranchi Rodriguez,90,Attack,,Middle Blocker,0,8,Dominican Republic
+DOM,Marifranchi Rodriguez,181,Set,0.02,Middle Blocker,0,8,Dominican Republic
+DOM,Marifranchi Rodriguez,279,Dig,0.02,Middle Blocker,0,8,Dominican Republic
+DOM,Marifranchi Rodriguez,189,Block,0.03,Middle Blocker,0,8,Dominican Republic
+DOM,Niverka Dharlenis Marte Frica,88,Attack,,Setter,0,8,Dominican Republic
+DOM,Niverka Dharlenis Marte Frica,6,Set,4.72,Setter,0,8,Dominican Republic
+DOM,Niverka Dharlenis Marte Frica,27,Dig,1.78,Setter,0,8,Dominican Republic
+DOM,Niverka Dharlenis Marte Frica,96,Block,0.14,Setter,0,8,Dominican Republic
+DOM,Prisilla Rivera Brens,92,Attack,,Outside Hitter,1,8,Dominican Republic
+DOM,Prisilla Rivera Brens,137,Set,0.03,Outside Hitter,1,8,Dominican Republic
+DOM,Prisilla Rivera Brens,65,Dig,1.25,Outside Hitter,1,8,Dominican Republic
+DOM,Prisilla Rivera Brens,61,Block,0.22,Outside Hitter,1,8,Dominican Republic
+DOM,Yaneirys Rodriguez Duran,179,Set,0.02,Libero,0,8,Dominican Republic
+DOM,Yaneirys Rodriguez Duran,190,Dig,0.28,Libero,0,8,Dominican Republic
+DOM,Yokaty Perez Flores,91,Attack,,Setter,0,8,Dominican Republic
+DOM,Yokaty Perez Flores,48,Set,0.17,Setter,0,8,Dominican Republic
+DOM,Yokaty Perez Flores,243,Dig,0.09,Setter,0,8,Dominican Republic
+DOM,Yonkaira Paola Peña Isabel,93,Attack,,Outside Hitter,0,8,Dominican Republic
+DOM,Yonkaira Paola Peña Isabel,182,Set,0.02,Outside Hitter,0,8,Dominican Republic
+DOM,Yonkaira Paola Peña Isabel,121,Dig,0.67,Outside Hitter,0,8,Dominican Republic
+DOM,Yonkaira Paola Peña Isabel,190,Block,0.03,Outside Hitter,0,8,Dominican Republic
+GER,Anna Pogany,224,Set,,Libero,0,10,Germany
+GER,Anna Pogany,115,Dig,0.7,Libero,0,10,Germany
+GER,Denise Hanke,98,Attack,,Setter,1,10,Germany
+GER,Denise Hanke,12,Set,3.62,Setter,1,10,Germany
+GER,Denise Hanke,69,Dig,1.19,Setter,1,10,Germany
+GER,Denise Hanke,175,Block,0.04,Setter,1,10,Germany
+GER,Denise Imoudu,105,Attack,,Setter,0,10,Germany
+GER,Denise Imoudu,33,Set,0.74,Setter,0,10,Germany
+GER,Denise Imoudu,207,Dig,0.21,Setter,0,10,Germany
+GER,Denise Imoudu,224,Block,,Setter,0,10,Germany
+GER,Hanna Orthmann,18,Attack,37.76,Outside Hitter,0,10,Germany
+GER,Hanna Orthmann,223,Set,,Outside Hitter,0,10,Germany
+GER,Hanna Orthmann,108,Dig,0.77,Outside Hitter,0,10,Germany
+GER,Hanna Orthmann,120,Block,0.09,Outside Hitter,0,10,Germany
+GER,Jana Franziska Poll,100,Attack,,Outside Hitter,0,10,Germany
+GER,Jana Franziska Poll,156,Set,0.02,Outside Hitter,0,10,Germany
+GER,Jana Franziska Poll,139,Dig,0.55,Outside Hitter,0,10,Germany
+GER,Jana Franziska Poll,136,Block,0.08,Outside Hitter,0,10,Germany
+GER,Jennifer Janiska,101,Attack,,Outside Hitter,0,10,Germany
+GER,Jennifer Janiska,157,Set,0.02,Outside Hitter,0,10,Germany
+GER,Jennifer Janiska,64,Dig,1.26,Outside Hitter,0,10,Germany
+GER,Jennifer Janiska,109,Block,0.11,Outside Hitter,0,10,Germany
+GER,Kimberly Drewniok,103,Attack,,Opposite Spiker,0,10,Germany
+GER,Kimberly Drewniok,222,Set,,Opposite Spiker,0,10,Germany
+GER,Kimberly Drewniok,178,Dig,0.32,Opposite Spiker,0,10,Germany
+GER,Kimberly Drewniok,223,Block,,Opposite Spiker,0,10,Germany
+GER,Lena Stigrot,104,Attack,,Outside Hitter,0,10,Germany
+GER,Lena Stigrot,159,Set,0.02,Outside Hitter,0,10,Germany
+GER,Lena Stigrot,122,Dig,0.66,Outside Hitter,0,10,Germany
+GER,Lena Stigrot,137,Block,0.08,Outside Hitter,0,10,Germany
+GER,Lenka Dürr,56,Set,0.09,Libero,0,10,Germany
+GER,Lenka Dürr,1,Dig,3.51,Libero,0,10,Germany
+GER,Leonie Schwertmann,108,Attack,,Middle Blocker,0,10,Germany
+GER,Leonie Schwertmann,225,Set,,Middle Blocker,0,10,Germany
+GER,Leonie Schwertmann,248,Dig,0.08,Middle Blocker,0,10,Germany
+GER,Leonie Schwertmann,88,Block,0.15,Middle Blocker,0,10,Germany
+GER,Linda Bock,107,Attack,,Libero,0,10,Germany
+GER,Linda Bock,161,Set,0.02,Libero,0,10,Germany
+GER,Linda Bock,220,Dig,0.17,Libero,0,10,Germany
+GER,Linda Bock,225,Block,,Libero,0,10,Germany
+GER,Lisa Gründing,109,Attack,,Middle Blocker,0,10,Germany
+GER,Lisa Gründing,226,Set,,Middle Blocker,0,10,Germany
+GER,Lisa Gründing,151,Dig,0.49,Middle Blocker,0,10,Germany
+GER,Lisa Gründing,12,Block,0.49,Middle Blocker,0,10,Germany
+GER,Louisa Lippmann,12,Attack,41.33,Opposite Spiker,0,10,Germany
+GER,Louisa Lippmann,65,Set,0.08,Opposite Spiker,0,10,Germany
+GER,Louisa Lippmann,26,Dig,1.81,Opposite Spiker,0,10,Germany
+GER,Louisa Lippmann,9,Block,0.51,Opposite Spiker,0,10,Germany
+GER,Marie Schölzel,106,Attack,,Middle Blocker,0,10,Germany
+GER,Marie Schölzel,160,Set,0.02,Middle Blocker,0,10,Germany
+GER,Marie Schölzel,156,Dig,0.45,Middle Blocker,0,10,Germany
+GER,Marie Schölzel,27,Block,0.36,Middle Blocker,0,10,Germany
+GER,Natalie Wilczek,249,Dig,0.08,Middle Blocker,0,10,Germany
+GER,Natalie Wilczek,151,Block,0.06,Middle Blocker,0,10,Germany
+GER,Nele Barber,102,Attack,,Outside Hitter,0,10,Germany
+GER,Nele Barber,158,Set,0.02,Outside Hitter,0,10,Germany
+GER,Nele Barber,140,Dig,0.55,Outside Hitter,0,10,Germany
+GER,Nele Barber,110,Block,0.11,Outside Hitter,0,10,Germany
+GER,Pia Kästner,97,Attack,,Setter,0,10,Germany
+GER,Pia Kästner,17,Set,2.11,Setter,0,10,Germany
+GER,Pia Kästner,138,Dig,0.55,Setter,0,10,Germany
+GER,Pia Kästner,174,Block,0.04,Setter,0,10,Germany
+GER,Selma Hetmann,99,Attack,,Middle Blocker,0,10,Germany
+GER,Selma Hetmann,285,Dig,,Middle Blocker,0,10,Germany
+GER,Selma Hetmann,222,Block,,Middle Blocker,0,10,Germany
+ITA,Alessia Orro,112,Attack,,Setter,0,4,Italy
+ITA,Alessia Orro,24,Set,1.78,Setter,0,4,Italy
+ITA,Alessia Orro,127,Dig,0.61,Setter,0,4,Italy
+ITA,Alessia Orro,168,Block,0.04,Setter,0,4,Italy
+ITA,Anna Danesi,115,Attack,,Middle Blocker,0,4,Italy
+ITA,Anna Danesi,144,Set,0.03,Middle Blocker,0,4,Italy
+ITA,Anna Danesi,172,Dig,0.34,Middle Blocker,0,4,Italy
+ITA,Anna Danesi,30,Block,0.33,Middle Blocker,0,4,Italy
+ITA,Anna Nicoletti,120,Attack,,Opposite Spiker,0,4,Italy
+ITA,Anna Nicoletti,147,Set,0.03,Opposite Spiker,0,4,Italy
+ITA,Anna Nicoletti,202,Dig,0.24,Opposite Spiker,0,4,Italy
+ITA,Anna Nicoletti,194,Block,0.03,Opposite Spiker,0,4,Italy
+ITA,Beatrice Parrocchiale,70,Set,0.07,Libero,0,4,Italy
+ITA,Beatrice Parrocchiale,82,Dig,0.99,Libero,0,4,Italy
+ITA,Caterina Chiara Bosetti,113,Attack,,Outside Hitter,0,4,Italy
+ITA,Caterina Chiara Bosetti,228,Set,,Outside Hitter,0,4,Italy
+ITA,Caterina Chiara Bosetti,175,Dig,0.33,Outside Hitter,0,4,Italy
+ITA,Caterina Chiara Bosetti,150,Block,0.06,Outside Hitter,0,4,Italy
+ITA,Cristina Chirichella,114,Attack,,Middle Blocker,1,4,Italy
+ITA,Cristina Chirichella,188,Set,0.01,Middle Blocker,1,4,Italy
+ITA,Cristina Chirichella,176,Dig,0.33,Middle Blocker,1,4,Italy
+ITA,Cristina Chirichella,29,Block,0.33,Middle Blocker,1,4,Italy
+ITA,Elena Pietrini,4,Attack,45.75,Outside Hitter,0,4,Italy
+ITA,Elena Pietrini,145,Set,0.03,Outside Hitter,0,4,Italy
+ITA,Elena Pietrini,73,Dig,1.09,Outside Hitter,0,4,Italy
+ITA,Elena Pietrini,108,Block,0.12,Outside Hitter,0,4,Italy
+ITA,Francesca Villani,121,Attack,,Outside Hitter,0,4,Italy
+ITA,Francesca Villani,230,Set,,Outside Hitter,0,4,Italy
+ITA,Francesca Villani,224,Dig,0.16,Outside Hitter,0,4,Italy
+ITA,Francesca Villani,226,Block,,Outside Hitter,0,4,Italy
+ITA,Indre Sorokaite,11,Attack,41.63,Opposite Spiker,0,4,Italy
+ITA,Indre Sorokaite,84,Set,0.06,Opposite Spiker,0,4,Italy
+ITA,Indre Sorokaite,48,Dig,1.45,Opposite Spiker,0,4,Italy
+ITA,Indre Sorokaite,71,Block,0.18,Opposite Spiker,0,4,Italy
+ITA,Lucia Bosetti,117,Attack,,Outside Hitter,0,4,Italy
+ITA,Lucia Bosetti,51,Set,0.12,Outside Hitter,0,4,Italy
+ITA,Lucia Bosetti,50,Dig,1.43,Outside Hitter,0,4,Italy
+ITA,Lucia Bosetti,31,Block,0.33,Outside Hitter,0,4,Italy
+ITA,Miryam Fatime Sylla,118,Attack,,Outside Hitter,0,4,Italy
+ITA,Miryam Fatime Sylla,229,Set,,Outside Hitter,0,4,Italy
+ITA,Miryam Fatime Sylla,153,Dig,0.48,Outside Hitter,0,4,Italy
+ITA,Miryam Fatime Sylla,140,Block,0.07,Outside Hitter,0,4,Italy
+ITA,Monica De Gennaro,49,Set,0.16,Libero,0,4,Italy
+ITA,Monica De Gennaro,10,Dig,2.46,Libero,0,4,Italy
+ITA,Ofelia Malinov,111,Attack,,Setter,0,4,Italy
+ITA,Ofelia Malinov,9,Set,4.22,Setter,0,4,Italy
+ITA,Ofelia Malinov,23,Dig,1.84,Setter,0,4,Italy
+ITA,Ofelia Malinov,33,Block,0.31,Setter,0,4,Italy
+ITA,Paola Ogechi Egonu,119,Attack,,Opposite Spiker,0,4,Italy
+ITA,Paola Ogechi Egonu,146,Set,0.03,Opposite Spiker,0,4,Italy
+ITA,Paola Ogechi Egonu,158,Dig,0.43,Opposite Spiker,0,4,Italy
+ITA,Paola Ogechi Egonu,43,Block,0.27,Opposite Spiker,0,4,Italy
+ITA,Sara Alberti,110,Attack,,Outside Hitter,0,4,Italy
+ITA,Sara Alberti,227,Set,,Outside Hitter,0,4,Italy
+ITA,Sara Alberti,186,Dig,0.3,Outside Hitter,0,4,Italy
+ITA,Sara Alberti,102,Block,0.13,Outside Hitter,0,4,Italy
+ITA,Sarah Luisa Fahr,116,Attack,,Middle Blocker,0,4,Italy
+ITA,Sarah Luisa Fahr,189,Set,0.01,Middle Blocker,0,4,Italy
+ITA,Sarah Luisa Fahr,182,Dig,0.31,Middle Blocker,0,4,Italy
+ITA,Sarah Luisa Fahr,36,Block,0.3,Middle Blocker,0,4,Italy
+ITA,Sylvia Chinelo Nwakalor,214,Block,0.01,Opposite Spiker,0,4,Italy
+JPN,Ai Kurogo,17,Attack,38.16,Outside Hitter,0,9,Japan
+JPN,Ai Kurogo,59,Set,0.09,Outside Hitter,0,9,Japan
+JPN,Ai Kurogo,76,Dig,1.04,Outside Hitter,0,9,Japan
+JPN,Ai Kurogo,181,Block,0.04,Outside Hitter,0,9,Japan
+JPN,Aika Akutagawa,131,Attack,,Middle Blocker,0,9,Japan
+JPN,Aika Akutagawa,127,Set,0.04,Middle Blocker,0,9,Japan
+JPN,Aika Akutagawa,174,Dig,0.33,Middle Blocker,0,9,Japan
+JPN,Aika Akutagawa,56,Block,0.22,Middle Blocker,0,9,Japan
+JPN,Akane Moriya,232,Set,,Libero,0,9,Japan
+JPN,Akane Moriya,96,Dig,0.85,Libero,0,9,Japan
+JPN,Aya Watanabe,129,Attack,,Middle Blocker,0,9,Japan
+JPN,Aya Watanabe,96,Set,0.06,Middle Blocker,0,9,Japan
+JPN,Aya Watanabe,222,Dig,0.17,Middle Blocker,0,9,Japan
+JPN,Aya Watanabe,94,Block,0.15,Middle Blocker,0,9,Japan
+JPN,Haruka Miyashita,125,Attack,,Setter,0,9,Japan
+JPN,Haruka Miyashita,42,Set,0.33,Setter,0,9,Japan
+JPN,Haruka Miyashita,200,Dig,0.24,Setter,0,9,Japan
+JPN,Haruka Miyashita,227,Block,,Setter,0,9,Japan
+JPN,Mai Okumura,128,Attack,,Middle Blocker,0,9,Japan
+JPN,Mai Okumura,231,Set,,Middle Blocker,0,9,Japan
+JPN,Mai Okumura,192,Dig,0.28,Middle Blocker,0,9,Japan
+JPN,Mai Okumura,46,Block,0.26,Middle Blocker,0,9,Japan
+JPN,Mako Kobata,58,Set,0.09,Libero,0,9,Japan
+JPN,Mako Kobata,3,Dig,3.2,Libero,0,9,Japan
+JPN,Miwako Osanai,130,Attack,,Outside Hitter,0,9,Japan
+JPN,Miwako Osanai,233,Set,,Outside Hitter,0,9,Japan
+JPN,Miwako Osanai,118,Dig,0.69,Outside Hitter,0,9,Japan
+JPN,Miwako Osanai,228,Block,,Outside Hitter,0,9,Japan
+JPN,Miya Sato,127,Attack,,Setter,0,9,Japan
+JPN,Miya Sato,2,Set,5.83,Setter,0,9,Japan
+JPN,Miya Sato,39,Dig,1.67,Setter,0,9,Japan
+JPN,Miya Sato,157,Block,0.06,Setter,0,9,Japan
+JPN,Miyu Nakagawa,133,Attack,,Opposite Spiker,0,9,Japan
+JPN,Miyu Nakagawa,128,Set,0.04,Opposite Spiker,0,9,Japan
+JPN,Miyu Nakagawa,146,Dig,0.5,Opposite Spiker,0,9,Japan
+JPN,Miyu Nakagawa,205,Block,0.02,Opposite Spiker,0,9,Japan
+JPN,Nana Iwasaka,123,Attack,,Middle Blocker,1,9,Japan
+JPN,Nana Iwasaka,72,Set,0.07,Middle Blocker,1,9,Japan
+JPN,Nana Iwasaka,165,Dig,0.41,Middle Blocker,1,9,Japan
+JPN,Nana Iwasaka,55,Block,0.22,Middle Blocker,1,9,Japan
+JPN,Nanami Seki,132,Attack,,Setter,0,9,Japan
+JPN,Nanami Seki,29,Set,1.24,Setter,0,9,Japan
+JPN,Nanami Seki,193,Dig,0.28,Setter,0,9,Japan
+JPN,Nanami Seki,229,Block,,Setter,0,9,Japan
+JPN,Risa Shinnabe,124,Attack,,Outside Hitter,0,9,Japan
+JPN,Risa Shinnabe,73,Set,0.07,Outside Hitter,0,9,Japan
+JPN,Risa Shinnabe,31,Dig,1.74,Outside Hitter,0,9,Japan
+JPN,Risa Shinnabe,156,Block,0.06,Outside Hitter,0,9,Japan
+JPN,Sarina Koga,122,Attack,,Outside Hitter,0,9,Japan
+JPN,Sarina Koga,172,Set,0.02,Outside Hitter,0,9,Japan
+JPN,Sarina Koga,125,Dig,0.63,Outside Hitter,0,9,Japan
+JPN,Sarina Koga,204,Block,0.02,Outside Hitter,0,9,Japan
+JPN,Yuki Ishii,26,Attack,34.04,Outside Hitter,0,9,Japan
+JPN,Yuki Ishii,126,Set,0.04,Outside Hitter,0,9,Japan
+JPN,Yuki Ishii,11,Dig,2.33,Outside Hitter,0,9,Japan
+JPN,Yuki Ishii,93,Block,0.15,Outside Hitter,0,9,Japan
+JPN,Yurie Nabeya,126,Attack,,Outside Hitter,0,9,Japan
+JPN,Yurie Nabeya,95,Set,0.06,Outside Hitter,0,9,Japan
+JPN,Yurie Nabeya,42,Dig,1.59,Outside Hitter,0,9,Japan
+JPN,Yurie Nabeya,180,Block,0.04,Outside Hitter,0,9,Japan
+KOR,Dae Young Jung,136,Attack,,Middle Blocker,0,15,Korea
+KOR,Dae Young Jung,235,Set,,Middle Blocker,0,15,Korea
+KOR,Dae Young Jung,254,Dig,0.06,Middle Blocker,0,15,Korea
+KOR,Dae Young Jung,113,Block,0.11,Middle Blocker,0,15,Korea
+KOR,Dayeong Lee,138,Attack,,Setter,0,15,Korea
+KOR,Dayeong Lee,8,Set,4.34,Setter,0,15,Korea
+KOR,Dayeong Lee,32,Dig,1.74,Setter,0,15,Korea
+KOR,Dayeong Lee,67,Block,0.19,Setter,0,15,Korea
+KOR,Eunji Choi,141,Attack,,Outside Hitter,0,15,Korea
+KOR,Eunji Choi,236,Set,,Outside Hitter,0,15,Korea
+KOR,Eunji Choi,261,Dig,0.04,Outside Hitter,0,15,Korea
+KOR,Eunji Choi,233,Block,,Outside Hitter,0,15,Korea
+KOR,Eunjin Park,137,Attack,,Middle Blocker,0,15,Korea
+KOR,Eunjin Park,121,Set,0.04,Middle Blocker,0,15,Korea
+KOR,Eunjin Park,166,Dig,0.4,Middle Blocker,0,15,Korea
+KOR,Eunjin Park,66,Block,0.19,Middle Blocker,0,15,Korea
+KOR,Heejin Kim,33,Attack,32.07,Opposite Spiker,0,15,Korea
+KOR,Heejin Kim,86,Set,0.06,Opposite Spiker,0,15,Korea
+KOR,Heejin Kim,36,Dig,1.68,Opposite Spiker,0,15,Korea
+KOR,Heejin Kim,138,Block,0.08,Opposite Spiker,0,15,Korea
+KOR,Hyejin An,38,Set,0.55,Setter,0,15,Korea
+KOR,Hyejin An,173,Dig,0.34,Setter,0,15,Korea
+KOR,Hyejin An,231,Block,,Setter,0,15,Korea
+KOR,Hyo Hee Lee,34,Set,0.62,Setter,0,15,Korea
+KOR,Hyo Hee Lee,188,Dig,0.28,Setter,0,15,Korea
+KOR,Hyo Hee Lee,230,Block,,Setter,0,15,Korea
+KOR,Jiyoung Oh,89,Set,0.06,Libero,0,15,Korea
+KOR,Jiyoung Oh,12,Dig,2.23,Libero,0,15,Korea
+KOR,Jiyun Jeong,139,Attack,,Opposite Spiker,0,15,Korea
+KOR,Jiyun Jeong,162,Set,0.02,Opposite Spiker,0,15,Korea
+KOR,Jiyun Jeong,235,Dig,0.11,Opposite Spiker,0,15,Korea
+KOR,Jiyun Jeong,177,Block,0.04,Opposite Spiker,0,15,Korea
+KOR,Juah Lee,134,Attack,,Middle Blocker,0,15,Korea
+KOR,Juah Lee,87,Set,0.06,Middle Blocker,0,15,Korea
+KOR,Juah Lee,132,Dig,0.57,Middle Blocker,0,15,Korea
+KOR,Juah Lee,112,Block,0.11,Middle Blocker,0,15,Korea
+KOR,Jungwon Moon,286,Dig,,Outside Hitter,0,15,Korea
+KOR,Seungju Pyo,24,Attack,36.23,Outside Hitter,0,15,Korea
+KOR,Seungju Pyo,66,Set,0.08,Outside Hitter,0,15,Korea
+KOR,Seungju Pyo,56,Dig,1.36,Outside Hitter,0,15,Korea
+KOR,Seungju Pyo,111,Block,0.11,Outside Hitter,0,15,Korea
+KOR,Sohwi Kang,32,Attack,32.35,Outside Hitter,0,15,Korea
+KOR,Sohwi Kang,68,Set,0.08,Outside Hitter,0,15,Korea
+KOR,Sohwi Kang,24,Dig,1.83,Outside Hitter,0,15,Korea
+KOR,Sohwi Kang,73,Block,0.17,Outside Hitter,0,15,Korea
+KOR,Sooji Han,140,Attack,,Middle Blocker,0,15,Korea
+KOR,Sooji Han,163,Set,0.02,Middle Blocker,0,15,Korea
+KOR,Sooji Han,272,Dig,0.02,Middle Blocker,0,15,Korea
+KOR,Sooji Han,232,Block,,Middle Blocker,0,15,Korea
+KOR,Su Ji Kim,135,Attack,,Middle Blocker,0,15,Korea
+KOR,Su Ji Kim,234,Set,,Middle Blocker,0,15,Korea
+KOR,Su Ji Kim,242,Dig,0.09,Middle Blocker,0,15,Korea
+KOR,Su Ji Kim,176,Block,0.04,Middle Blocker,0,15,Korea
+KOR,Yeon Koung Kim,9,Attack,42.91,Outside Hitter,1,15,Korea
+KOR,Yeon Koung Kim,67,Set,0.08,Outside Hitter,1,15,Korea
+KOR,Yeon Koung Kim,28,Dig,1.77,Outside Hitter,1,15,Korea
+KOR,Yeon Koung Kim,89,Block,0.15,Outside Hitter,1,15,Korea
+KOR,Yeongyeon Kim,88,Set,0.06,Libero,0,15,Korea
+KOR,Yeongyeon Kim,60,Dig,1.32,Libero,0,15,Korea
+NED,Anne Buijs,148,Attack,,Outside Hitter,0,11,Netherlands
+NED,Anne Buijs,240,Set,,Outside Hitter,0,11,Netherlands
+NED,Anne Buijs,124,Dig,0.63,Outside Hitter,0,11,Netherlands
+NED,Anne Buijs,85,Block,0.16,Outside Hitter,0,11,Netherlands
+NED,Annick Meijers,157,Attack,,Outside Hitter,0,11,Netherlands
+NED,Annick Meijers,178,Set,0.02,Outside Hitter,0,11,Netherlands
+NED,Annick Meijers,119,Dig,0.68,Outside Hitter,0,11,Netherlands
+NED,Annick Meijers,107,Block,0.12,Outside Hitter,0,11,Netherlands
+NED,Anniek Siebring,160,Attack,,Libero,0,11,Netherlands
+NED,Anniek Siebring,245,Set,,Libero,0,11,Netherlands
+NED,Anniek Siebring,259,Dig,0.05,Libero,0,11,Netherlands
+NED,Britt Bongaerts,149,Attack,,Setter,0,11,Netherlands
+NED,Britt Bongaerts,20,Set,1.91,Setter,0,11,Netherlands
+NED,Britt Bongaerts,112,Dig,0.74,Setter,0,11,Netherlands
+NED,Britt Bongaerts,130,Block,0.09,Setter,0,11,Netherlands
+NED,Celeste Plak,143,Attack,,Outside Hitter,0,11,Netherlands
+NED,Celeste Plak,238,Set,,Outside Hitter,0,11,Netherlands
+NED,Celeste Plak,150,Dig,0.49,Outside Hitter,0,11,Netherlands
+NED,Celeste Plak,116,Block,0.11,Outside Hitter,0,11,Netherlands
+NED,Demi Korevaar,146,Attack,,Middle Blocker,0,11,Netherlands
+NED,Demi Korevaar,265,Dig,0.04,Middle Blocker,0,11,Netherlands
+NED,Demi Korevaar,186,Block,0.04,Middle Blocker,0,11,Netherlands
+NED,Eline Timmerman,161,Attack,,Middle Blocker,0,11,Netherlands
+NED,Eline Timmerman,107,Set,0.05,Middle Blocker,0,11,Netherlands
+NED,Eline Timmerman,171,Dig,0.35,Middle Blocker,0,11,Netherlands
+NED,Eline Timmerman,25,Block,0.39,Middle Blocker,0,11,Netherlands
+NED,Hester Jasper,150,Attack,,Outside Hitter,0,11,Netherlands
+NED,Hester Jasper,241,Set,,Outside Hitter,0,11,Netherlands
+NED,Hester Jasper,219,Dig,0.18,Outside Hitter,0,11,Netherlands
+NED,Hester Jasper,187,Block,0.04,Outside Hitter,0,11,Netherlands
+NED,Indy Baijens,152,Attack,,Middle Blocker,0,11,Netherlands
+NED,Indy Baijens,242,Set,,Middle Blocker,0,11,Netherlands
+NED,Indy Baijens,212,Dig,0.19,Middle Blocker,0,11,Netherlands
+NED,Indy Baijens,99,Block,0.14,Middle Blocker,0,11,Netherlands
+NED,Juliet Lohuis,145,Attack,,Middle Blocker,0,11,Netherlands
+NED,Juliet Lohuis,239,Set,,Middle Blocker,0,11,Netherlands
+NED,Juliet Lohuis,141,Dig,0.54,Middle Blocker,0,11,Netherlands
+NED,Juliet Lohuis,7,Block,0.53,Middle Blocker,0,11,Netherlands
+NED,Kirsten Knip,104,Set,0.05,Libero,0,11,Netherlands
+NED,Kirsten Knip,58,Dig,1.35,Libero,0,11,Netherlands
+NED,Laura Dijkema,151,Attack,,Setter,0,11,Netherlands
+NED,Laura Dijkema,7,Set,4.47,Setter,0,11,Netherlands
+NED,Laura Dijkema,68,Dig,1.19,Setter,0,11,Netherlands
+NED,Laura Dijkema,144,Block,0.07,Setter,0,11,Netherlands
+NED,Lonneke Slöetjes,147,Attack,,Opposite Spiker,0,11,Netherlands
+NED,Lonneke Slöetjes,106,Set,0.05,Opposite Spiker,0,11,Netherlands
+NED,Lonneke Slöetjes,134,Dig,0.56,Opposite Spiker,0,11,Netherlands
+NED,Lonneke Slöetjes,129,Block,0.09,Opposite Spiker,0,11,Netherlands
+NED,Maret Grothues,144,Attack,,Outside Hitter,1,11,Netherlands
+NED,Maret Grothues,105,Set,0.05,Outside Hitter,1,11,Netherlands
+NED,Maret Grothues,94,Dig,0.88,Outside Hitter,1,11,Netherlands
+NED,Maret Grothues,167,Block,0.05,Outside Hitter,1,11,Netherlands
+NED,Marrit Jasper,154,Attack,,Outside Hitter,0,11,Netherlands
+NED,Marrit Jasper,135,Set,0.04,Outside Hitter,0,11,Netherlands
+NED,Marrit Jasper,88,Dig,0.93,Outside Hitter,0,11,Netherlands
+NED,Marrit Jasper,53,Block,0.23,Outside Hitter,0,11,Netherlands
+NED,Myrthe Schoot,177,Set,0.02,Libero,0,11,Netherlands
+NED,Myrthe Schoot,40,Dig,1.63,Libero,0,11,Netherlands
+NED,Nicole Koolhaas,158,Attack,,Middle Blocker,0,11,Netherlands
+NED,Nicole Koolhaas,136,Set,0.04,Middle Blocker,0,11,Netherlands
+NED,Nicole Koolhaas,213,Dig,0.19,Middle Blocker,0,11,Netherlands
+NED,Nicole Koolhaas,37,Block,0.3,Middle Blocker,0,11,Netherlands
+NED,Nicole Oude Luttikhuis,153,Attack,,Outside Hitter,0,11,Netherlands
+NED,Nicole Oude Luttikhuis,134,Set,0.04,Outside Hitter,0,11,Netherlands
+NED,Nicole Oude Luttikhuis,97,Dig,0.84,Outside Hitter,0,11,Netherlands
+NED,Nicole Oude Luttikhuis,86,Block,0.16,Outside Hitter,0,11,Netherlands
+NED,Nika Daalderop,155,Attack,,Outside Hitter,0,11,Netherlands
+NED,Nika Daalderop,243,Set,,Outside Hitter,0,11,Netherlands
+NED,Nika Daalderop,155,Dig,0.46,Outside Hitter,0,11,Netherlands
+NED,Nika Daalderop,145,Block,0.07,Outside Hitter,0,11,Netherlands
+NED,Sarah Van Aalen,159,Attack,,Setter,0,11,Netherlands
+NED,Sarah Van Aalen,37,Set,0.6,Setter,0,11,Netherlands
+NED,Sarah Van Aalen,233,Dig,0.12,Setter,0,11,Netherlands
+NED,Sarah Van Aalen,188,Block,0.04,Setter,0,11,Netherlands
+NED,Tessa Polder,156,Attack,,Middle Blocker,0,11,Netherlands
+NED,Tessa Polder,244,Set,,Middle Blocker,0,11,Netherlands
+NED,Tessa Polder,266,Dig,0.04,Middle Blocker,0,11,Netherlands
+NED,Tessa Polder,211,Block,0.02,Middle Blocker,0,11,Netherlands
+NED,Yvon Belien,142,Attack,,Middle Blocker,0,11,Netherlands
+NED,Yvon Belien,237,Set,,Middle Blocker,0,11,Netherlands
+NED,Yvon Belien,264,Dig,0.04,Middle Blocker,0,11,Netherlands
+NED,Yvon Belien,166,Block,0.05,Middle Blocker,0,11,Netherlands
+POL,Agnieszka Kakolewska,165,Attack,,Middle Blocker,1,6,Poland
+POL,Agnieszka Kakolewska,114,Set,0.04,Middle Blocker,1,6,Poland
+POL,Agnieszka Kakolewska,177,Dig,0.32,Middle Blocker,1,6,Poland
+POL,Agnieszka Kakolewska,3,Block,0.58,Middle Blocker,1,6,Poland
+POL,Joanna Wolosz,168,Attack,,Setter,0,6,Poland
+POL,Joanna Wolosz,22,Set,1.79,Setter,0,6,Poland
+POL,Joanna Wolosz,148,Dig,0.49,Setter,0,6,Poland
+POL,Joanna Wolosz,172,Block,0.04,Setter,0,6,Poland
+POL,Julia Nowicka,162,Attack,,Setter,0,6,Poland
+POL,Julia Nowicka,19,Set,2.07,Setter,0,6,Poland
+POL,Julia Nowicka,117,Dig,0.69,Setter,0,6,Poland
+POL,Julia Nowicka,171,Block,0.04,Setter,0,6,Poland
+POL,Kamila Witkowska,164,Attack,,Middle Blocker,0,6,Poland
+POL,Kamila Witkowska,196,Set,0.01,Middle Blocker,0,6,Poland
+POL,Kamila Witkowska,195,Dig,0.27,Middle Blocker,0,6,Poland
+POL,Kamila Witkowska,76,Block,0.17,Middle Blocker,0,6,Poland
+POL,Klaudia Alagierska,163,Attack,,Middle Blocker,0,6,Poland
+POL,Klaudia Alagierska,195,Set,0.01,Middle Blocker,0,6,Poland
+POL,Klaudia Alagierska,197,Dig,0.25,Middle Blocker,0,6,Poland
+POL,Klaudia Alagierska,54,Block,0.23,Middle Blocker,0,6,Poland
+POL,Magdalena Stysiak,21,Attack,36.87,Opposite Spiker,0,6,Poland
+POL,Magdalena Stysiak,247,Set,,Opposite Spiker,0,6,Poland
+POL,Magdalena Stysiak,100,Dig,0.82,Opposite Spiker,0,6,Poland
+POL,Magdalena Stysiak,21,Block,0.42,Opposite Spiker,0,6,Poland
+POL,Malwina Smarzek,6,Attack,43.57,Opposite Spiker,0,6,Poland
+POL,Malwina Smarzek,53,Set,0.11,Opposite Spiker,0,6,Poland
+POL,Malwina Smarzek,46,Dig,1.49,Opposite Spiker,0,6,Poland
+POL,Malwina Smarzek,14,Block,0.48,Opposite Spiker,0,6,Poland
+POL,Maria Stenzel,246,Set,,Libero,0,6,Poland
+POL,Maria Stenzel,13,Dig,2.07,Libero,0,6,Poland
+POL,Marlena Kowalewska,171,Attack,,Setter,0,6,Poland
+POL,Marlena Kowalewska,25,Set,1.68,Setter,0,6,Poland
+POL,Marlena Kowalewska,105,Dig,0.79,Setter,0,6,Poland
+POL,Marlena Kowalewska,197,Block,0.03,Setter,0,6,Poland
+POL,Martyna Grajber,169,Attack,,Outside Hitter,0,6,Poland
+POL,Martyna Grajber,149,Set,0.03,Outside Hitter,0,6,Poland
+POL,Martyna Grajber,30,Dig,1.75,Outside Hitter,0,6,Poland
+POL,Martyna Grajber,70,Block,0.18,Outside Hitter,0,6,Poland
+POL,Monika Galkowska,167,Attack,,Opposite Spiker,0,6,Poland
+POL,Monika Galkowska,281,Dig,0.01,Opposite Spiker,0,6,Poland
+POL,Monika Galkowska,234,Block,,Opposite Spiker,0,6,Poland
+POL,Monika Jagla,249,Set,,Libero,0,6,Poland
+POL,Monika Jagla,217,Dig,0.18,Libero,0,6,Poland
+POL,Natalia Medrzyk,20,Attack,37.54,Outside Hitter,0,6,Poland
+POL,Natalia Medrzyk,150,Set,0.03,Outside Hitter,0,6,Poland
+POL,Natalia Medrzyk,22,Dig,1.85,Outside Hitter,0,6,Poland
+POL,Natalia Medrzyk,78,Block,0.17,Outside Hitter,0,6,Poland
+POL,Olivia Rozanski,170,Attack,,Outside Hitter,0,6,Poland
+POL,Olivia Rozanski,248,Set,,Outside Hitter,0,6,Poland
+POL,Olivia Rozanski,269,Dig,0.03,Outside Hitter,0,6,Poland
+POL,Olivia Rozanski,196,Block,0.03,Outside Hitter,0,6,Poland
+POL,Paulina Maj-Erwardt,197,Set,0.01,Libero,0,6,Poland
+POL,Paulina Maj-Erwardt,77,Dig,1.03,Libero,0,6,Poland
+POL,Zuzanna Efimienko-Mlotkowska,166,Attack,,Middle Blocker,0,6,Poland
+POL,Zuzanna Efimienko-Mlotkowska,148,Set,0.03,Middle Blocker,0,6,Poland
+POL,Zuzanna Efimienko-Mlotkowska,216,Dig,0.18,Middle Blocker,0,6,Poland
+POL,Zuzanna Efimienko-Mlotkowska,77,Block,0.17,Middle Blocker,0,6,Poland
+POL,Zuzanna Gorecka,172,Attack,,Outside Hitter,0,6,Poland
+POL,Zuzanna Gorecka,151,Set,0.03,Outside Hitter,0,6,Poland
+POL,Zuzanna Gorecka,270,Dig,0.03,Outside Hitter,0,6,Poland
+POL,Zuzanna Gorecka,235,Block,,Outside Hitter,0,6,Poland
+RUS,Alla Galkina,74,Set,0.07,Libero,0,14,Russia
+RUS,Alla Galkina,57,Dig,1.35,Libero,0,14,Russia
+RUS,Angelina Lazarenko,173,Attack,,Middle Blocker,0,14,Russia
+RUS,Angelina Lazarenko,129,Set,0.04,Middle Blocker,0,14,Russia
+RUS,Angelina Lazarenko,168,Dig,0.37,Middle Blocker,0,14,Russia
+RUS,Angelina Lazarenko,17,Block,0.46,Middle Blocker,0,14,Russia
+RUS,Anna Kotikova,183,Attack,,Opposite Spiker,0,14,Russia
+RUS,Anna Kotikova,99,Set,0.06,Opposite Spiker,0,14,Russia
+RUS,Anna Kotikova,232,Dig,0.13,Opposite Spiker,0,14,Russia
+RUS,Anna Kotikova,237,Block,,Opposite Spiker,0,14,Russia
+RUS,Daria Pilipenko,46,Set,0.19,Libero,0,14,Russia
+RUS,Daria Pilipenko,18,Dig,1.98,Libero,0,14,Russia
+RUS,Daria Ryseva,177,Attack,,Setter,0,14,Russia
+RUS,Daria Ryseva,41,Set,0.35,Setter,0,14,Russia
+RUS,Daria Ryseva,231,Dig,0.13,Setter,0,14,Russia
+RUS,Daria Ryseva,158,Block,0.06,Setter,0,14,Russia
+RUS,Ekaterina Efimova,174,Attack,,Middle Blocker,0,14,Russia
+RUS,Ekaterina Efimova,250,Set,,Middle Blocker,0,14,Russia
+RUS,Ekaterina Efimova,223,Dig,0.17,Middle Blocker,0,14,Russia
+RUS,Ekaterina Efimova,23,Block,0.39,Middle Blocker,0,14,Russia
+RUS,Ekaterina Orlova,175,Attack,,Middle Blocker,0,14,Russia
+RUS,Ekaterina Orlova,173,Set,0.02,Middle Blocker,0,14,Russia
+RUS,Ekaterina Orlova,214,Dig,0.19,Middle Blocker,0,14,Russia
+RUS,Ekaterina Orlova,68,Block,0.19,Middle Blocker,0,14,Russia
+RUS,Evgeniya Startseva,178,Attack,,Setter,1,14,Russia
+RUS,Evgeniya Startseva,97,Set,0.06,Setter,1,14,Russia
+RUS,Evgeniya Startseva,255,Dig,0.06,Setter,1,14,Russia
+RUS,Evgeniya Startseva,236,Block,,Setter,1,14,Russia
+RUS,Irina Voronkova,179,Attack,,Outside Hitter,0,14,Russia
+RUS,Irina Voronkova,98,Set,0.06,Outside Hitter,0,14,Russia
+RUS,Irina Voronkova,89,Dig,0.93,Outside Hitter,0,14,Russia
+RUS,Irina Voronkova,142,Block,0.07,Outside Hitter,0,14,Russia
+RUS,Kristina Kurnosova,130,Set,0.04,Libero,0,14,Russia
+RUS,Kristina Kurnosova,181,Dig,0.31,Libero,0,14,Russia
+RUS,Kseniia Parubets,16,Attack,38.33,Outside Hitter,0,14,Russia
+RUS,Kseniia Parubets,76,Set,0.07,Outside Hitter,0,14,Russia
+RUS,Kseniia Parubets,71,Dig,1.17,Outside Hitter,0,14,Russia
+RUS,Kseniia Parubets,124,Block,0.09,Outside Hitter,0,14,Russia
+RUS,Margarita Kurilo,14,Attack,40.67,Outside Hitter,0,14,Russia
+RUS,Margarita Kurilo,75,Set,0.07,Outside Hitter,0,14,Russia
+RUS,Margarita Kurilo,66,Dig,1.24,Outside Hitter,0,14,Russia
+RUS,Margarita Kurilo,57,Block,0.22,Outside Hitter,0,14,Russia
+RUS,Maria Vorobyeva,182,Attack,,Outside Hitter,0,14,Russia
+RUS,Maria Vorobyeva,256,Dig,0.06,Outside Hitter,0,14,Russia
+RUS,Maria Vorobyeva,207,Block,0.02,Outside Hitter,0,14,Russia
+RUS,Mariia Khaletskaia,181,Attack,,Opposite Spiker,0,14,Russia
+RUS,Mariia Khaletskaia,174,Set,0.02,Opposite Spiker,0,14,Russia
+RUS,Mariia Khaletskaia,79,Dig,1.02,Opposite Spiker,0,14,Russia
+RUS,Mariia Khaletskaia,159,Block,0.06,Opposite Spiker,0,14,Russia
+RUS,Olga Zubareva,184,Attack,,Middle Blocker,0,14,Russia
+RUS,Olga Zubareva,252,Set,,Middle Blocker,0,14,Russia
+RUS,Olga Zubareva,262,Dig,0.04,Middle Blocker,0,14,Russia
+RUS,Olga Zubareva,182,Block,0.04,Middle Blocker,0,14,Russia
+RUS,Polina Matveeva,186,Attack,,Setter,0,14,Russia
+RUS,Polina Matveeva,39,Set,0.54,Setter,0,14,Russia
+RUS,Polina Matveeva,201,Dig,0.24,Setter,0,14,Russia
+RUS,Polina Matveeva,184,Block,0.04,Setter,0,14,Russia
+RUS,Sofya Kuznetsova,185,Attack,,Outside Hitter,0,14,Russia
+RUS,Sofya Kuznetsova,131,Set,0.04,Outside Hitter,0,14,Russia
+RUS,Sofya Kuznetsova,251,Dig,0.07,Outside Hitter,0,14,Russia
+RUS,Sofya Kuznetsova,183,Block,0.04,Outside Hitter,0,14,Russia
+RUS,Tatiana Ezhak,23,Attack,36.39,Outside Hitter,0,14,Russia
+RUS,Tatiana Ezhak,100,Set,0.06,Outside Hitter,0,14,Russia
+RUS,Tatiana Ezhak,43,Dig,1.54,Outside Hitter,0,14,Russia
+RUS,Tatiana Ezhak,125,Block,0.09,Outside Hitter,0,14,Russia
+RUS,Tatiana Romanova,176,Attack,,Setter,0,14,Russia
+RUS,Tatiana Romanova,10,Set,4.04,Setter,0,14,Russia
+RUS,Tatiana Romanova,83,Dig,0.98,Setter,0,14,Russia
+RUS,Tatiana Romanova,47,Block,0.26,Setter,0,14,Russia
+RUS,Valeriya Zaytseva,180,Attack,,Middle Blocker,0,14,Russia
+RUS,Valeriya Zaytseva,251,Set,,Middle Blocker,0,14,Russia
+RUS,Valeriya Zaytseva,250,Dig,0.07,Middle Blocker,0,14,Russia
+RUS,Valeriya Zaytseva,206,Block,0.02,Middle Blocker,0,14,Russia
+RUS,Victoriia Russu,187,Attack,,Outside Hitter,0,14,Russia
+RUS,Victoriia Russu,237,Dig,0.11,Outside Hitter,0,14,Russia
+RUS,Victoriia Russu,238,Block,,Outside Hitter,0,14,Russia
+SRB,Aleksandra Cirovic,203,Attack,,Setter,0,13,Serbia
+SRB,Aleksandra Cirovic,32,Set,0.83,Setter,0,13,Serbia
+SRB,Aleksandra Cirovic,189,Dig,0.28,Setter,0,13,Serbia
+SRB,Aleksandra Cirovic,153,Block,0.06,Setter,0,13,Serbia
+SRB,Aleksandra Tadic,258,Set,,Libero,0,13,Serbia
+SRB,Aleksandra Tadic,163,Dig,0.42,Libero,0,13,Serbia
+SRB,Ana Bjelica,196,Attack,,Opposite Spiker,0,13,Serbia
+SRB,Ana Bjelica,255,Set,,Opposite Spiker,0,13,Serbia
+SRB,Ana Bjelica,67,Dig,1.21,Opposite Spiker,0,13,Serbia
+SRB,Ana Bjelica,103,Block,0.13,Opposite Spiker,0,13,Serbia
+SRB,Ana Pejicic,204,Attack,,Outside Hitter,0,13,Serbia
+SRB,Ana Pejicic,167,Set,0.02,Outside Hitter,0,13,Serbia
+SRB,Ana Pejicic,275,Dig,0.02,Outside Hitter,0,13,Serbia
+SRB,Ana Pejicic,241,Block,,Outside Hitter,0,13,Serbia
+SRB,Bianka Busa,188,Attack,,Outside Hitter,0,13,Serbia
+SRB,Bianka Busa,122,Set,0.04,Outside Hitter,0,13,Serbia
+SRB,Bianka Busa,128,Dig,0.6,Outside Hitter,0,13,Serbia
+SRB,Bianka Busa,139,Block,0.08,Outside Hitter,0,13,Serbia
+SRB,Bojana Gocanin,92,Set,0.06,Libero,0,13,Serbia
+SRB,Bojana Gocanin,184,Dig,0.3,Libero,0,13,Serbia
+SRB,Brankica Mihajlovic,194,Attack,,Outside Hitter,0,13,Serbia
+SRB,Brankica Mihajlovic,254,Set,,Outside Hitter,0,13,Serbia
+SRB,Brankica Mihajlovic,183,Dig,0.3,Outside Hitter,0,13,Serbia
+SRB,Brankica Mihajlovic,202,Block,0.02,Outside Hitter,0,13,Serbia
+SRB,Emilija Zakic,189,Attack,,Setter,0,13,Serbia
+SRB,Emilija Zakic,35,Set,0.62,Setter,0,13,Serbia
+SRB,Emilija Zakic,199,Dig,0.25,Setter,0,13,Serbia
+SRB,Emilija Zakic,239,Block,,Setter,0,13,Serbia
+SRB,Jelena Blagojevic,199,Attack,,Outside Hitter,0,13,Serbia
+SRB,Jelena Blagojevic,166,Set,0.02,Outside Hitter,0,13,Serbia
+SRB,Jelena Blagojevic,93,Dig,0.89,Outside Hitter,0,13,Serbia
+SRB,Jelena Blagojevic,114,Block,0.11,Outside Hitter,0,13,Serbia
+SRB,Jovana Kocic,200,Attack,,Middle Blocker,0,13,Serbia
+SRB,Jovana Kocic,257,Set,,Middle Blocker,0,13,Serbia
+SRB,Jovana Kocic,236,Dig,0.11,Middle Blocker,0,13,Serbia
+SRB,Jovana Kocic,90,Block,0.15,Middle Blocker,0,13,Serbia
+SRB,Katarina Jovic,192,Attack,,Outside Hitter,0,13,Serbia
+SRB,Katarina Jovic,253,Set,,Outside Hitter,0,13,Serbia
+SRB,Katarina Jovic,273,Dig,0.02,Outside Hitter,0,13,Serbia
+SRB,Katarina Jovic,240,Block,,Outside Hitter,0,13,Serbia
+SRB,Katarina Lazovic,22,Attack,36.58,Outside Hitter,0,13,Serbia
+SRB,Katarina Lazovic,90,Set,0.06,Outside Hitter,0,13,Serbia
+SRB,Katarina Lazovic,19,Dig,1.98,Outside Hitter,0,13,Serbia
+SRB,Katarina Lazovic,74,Block,0.17,Outside Hitter,0,13,Serbia
+SRB,Maja Aleksic,197,Attack,,Middle Blocker,1,13,Serbia
+SRB,Maja Aleksic,69,Set,0.08,Middle Blocker,1,13,Serbia
+SRB,Maja Aleksic,126,Dig,0.62,Middle Blocker,1,13,Serbia
+SRB,Maja Aleksic,1,Block,0.89,Middle Blocker,1,13,Serbia
+SRB,Maja Savic,191,Attack,,Middle Blocker,0,13,Serbia
+SRB,Maja Savic,165,Set,0.02,Middle Blocker,0,13,Serbia
+SRB,Maja Savic,157,Dig,0.45,Middle Blocker,0,13,Serbia
+SRB,Maja Savic,35,Block,0.3,Middle Blocker,0,13,Serbia
+SRB,Marija Popovic,168,Set,0.02,Libero,0,13,Serbia
+SRB,Marija Popovic,84,Dig,0.98,Libero,0,13,Serbia
+SRB,Mila Djordjevic,202,Attack,,Setter,0,13,Serbia
+SRB,Mila Djordjevic,30,Set,1.11,Setter,0,13,Serbia
+SRB,Mila Djordjevic,143,Dig,0.53,Setter,0,13,Serbia
+SRB,Mila Djordjevic,104,Block,0.13,Setter,0,13,Serbia
+SRB,Milica Kubura,205,Attack,,Opposite Spiker,0,13,Serbia
+SRB,Milica Kubura,124,Set,0.04,Opposite Spiker,0,13,Serbia
+SRB,Milica Kubura,104,Dig,0.79,Opposite Spiker,0,13,Serbia
+SRB,Milica Kubura,154,Block,0.06,Opposite Spiker,0,13,Serbia
+SRB,Mina Popovic,190,Attack,,Middle Blocker,0,13,Serbia
+SRB,Mina Popovic,164,Set,0.02,Middle Blocker,0,13,Serbia
+SRB,Mina Popovic,179,Dig,0.32,Middle Blocker,0,13,Serbia
+SRB,Mina Popovic,75,Block,0.17,Middle Blocker,0,13,Serbia
+SRB,Sara Lozo,201,Attack,,Opposite Spiker,0,13,Serbia
+SRB,Sara Lozo,91,Set,0.06,Opposite Spiker,0,13,Serbia
+SRB,Sara Lozo,72,Dig,1.13,Opposite Spiker,0,13,Serbia
+SRB,Sara Lozo,121,Block,0.09,Opposite Spiker,0,13,Serbia
+SRB,Sladjana Mirkovic,193,Attack,,Setter,0,13,Serbia
+SRB,Sladjana Mirkovic,16,Set,2.17,Setter,0,13,Serbia
+SRB,Sladjana Mirkovic,92,Dig,0.89,Setter,0,13,Serbia
+SRB,Sladjana Mirkovic,152,Block,0.06,Setter,0,13,Serbia
+SRB,Stefana Veljkovic,195,Attack,,Middle Blocker,0,13,Serbia
+SRB,Stefana Veljkovic,274,Dig,0.02,Middle Blocker,0,13,Serbia
+SRB,Stefana Veljkovic,178,Block,0.04,Middle Blocker,0,13,Serbia
+SRB,Teodora Pusic,123,Set,0.04,Libero,0,13,Serbia
+SRB,Teodora Pusic,53,Dig,1.4,Libero,0,13,Serbia
+SRB,Tijana Boškovic,198,Attack,,Opposite Spiker,0,13,Serbia
+SRB,Tijana Boškovic,256,Set,,Opposite Spiker,0,13,Serbia
+SRB,Tijana Boškovic,206,Dig,0.23,Opposite Spiker,0,13,Serbia
+SRB,Tijana Boškovic,203,Block,0.02,Opposite Spiker,0,13,Serbia
+THA,Ajcharaporn Kongyot,27,Attack,33.7,Outside Hitter,0,12,Thailand
+THA,Ajcharaporn Kongyot,82,Set,0.06,Outside Hitter,0,12,Thailand
+THA,Ajcharaporn Kongyot,45,Dig,1.5,Outside Hitter,0,12,Thailand
+THA,Ajcharaporn Kongyot,58,Block,0.22,Outside Hitter,0,12,Thailand
+THA,Amporn Hyapha,211,Attack,,Middle Blocker,0,12,Thailand
+THA,Amporn Hyapha,81,Set,0.06,Middle Blocker,0,12,Thailand
+THA,Amporn Hyapha,234,Dig,0.12,Middle Blocker,0,12,Thailand
+THA,Amporn Hyapha,84,Block,0.16,Middle Blocker,0,12,Thailand
+THA,Chatchu-On Moksri,10,Attack,41.78,Outside Hitter,0,12,Thailand
+THA,Chatchu-On Moksri,64,Set,0.08,Outside Hitter,0,12,Thailand
+THA,Chatchu-On Moksri,52,Dig,1.4,Outside Hitter,0,12,Thailand
+THA,Chatchu-On Moksri,134,Block,0.08,Outside Hitter,0,12,Thailand
+THA,Chitaporn Kamlangmak,260,Set,,Middle Blocker,0,12,Thailand
+THA,Chitaporn Kamlangmak,287,Dig,,Middle Blocker,0,12,Thailand
+THA,Chitaporn Kamlangmak,243,Block,,Middle Blocker,0,12,Thailand
+THA,Gullapa Piampongsan,213,Attack,,Setter,0,12,Thailand
+THA,Gullapa Piampongsan,36,Set,0.62,Setter,0,12,Thailand
+THA,Gullapa Piampongsan,196,Dig,0.26,Setter,0,12,Thailand
+THA,Gullapa Piampongsan,244,Block,,Setter,0,12,Thailand
+THA,Jutarat Montripila,214,Attack,,Outside Hitter,0,12,Thailand
+THA,Jutarat Montripila,246,Dig,0.08,Outside Hitter,0,12,Thailand
+THA,Jutarat Montripila,245,Block,,Outside Hitter,0,12,Thailand
+THA,Malika Kanthong,34,Attack,32.03,Opposite Spiker,0,12,Thailand
+THA,Malika Kanthong,63,Set,0.08,Opposite Spiker,0,12,Thailand
+THA,Malika Kanthong,29,Dig,1.76,Opposite Spiker,0,12,Thailand
+THA,Malika Kanthong,45,Block,0.26,Opposite Spiker,0,12,Thailand
+THA,Nootsara Tomkom,212,Attack,,Setter,1,12,Thailand
+THA,Nootsara Tomkom,1,Set,6.68,Setter,1,12,Thailand
+THA,Nootsara Tomkom,8,Dig,2.5,Setter,1,12,Thailand
+THA,Nootsara Tomkom,201,Block,0.02,Setter,1,12,Thailand
+THA,Onuma Sittirak,28,Attack,33.55,Outside Hitter,0,12,Thailand
+THA,Onuma Sittirak,47,Set,0.18,Outside Hitter,0,12,Thailand
+THA,Onuma Sittirak,51,Dig,1.42,Outside Hitter,0,12,Thailand
+THA,Onuma Sittirak,117,Block,0.1,Outside Hitter,0,12,Thailand
+THA,Piyanut Pannoy,44,Set,0.26,Libero,0,12,Thailand
+THA,Piyanut Pannoy,35,Dig,1.68,Libero,0,12,Thailand
+THA,Pleumjit Thinkaow,207,Attack,,Middle Blocker,0,12,Thailand
+THA,Pleumjit Thinkaow,45,Set,0.2,Middle Blocker,0,12,Thailand
+THA,Pleumjit Thinkaow,161,Dig,0.42,Middle Blocker,0,12,Thailand
+THA,Pleumjit Thinkaow,26,Block,0.38,Middle Blocker,0,12,Thailand
+THA,Supattra Pairoj,83,Set,0.06,Libero,0,12,Thailand
+THA,Supattra Pairoj,70,Dig,1.18,Libero,0,12,Thailand
+THA,Tichakorn Boonlert,215,Attack,,Middle Blocker,0,12,Thailand
+THA,Tichakorn Boonlert,119,Set,0.04,Middle Blocker,0,12,Thailand
+THA,Tichakorn Boonlert,240,Dig,0.1,Middle Blocker,0,12,Thailand
+THA,Tichakorn Boonlert,100,Block,0.14,Middle Blocker,0,12,Thailand
+THA,Tikamporn Changkeaw,120,Set,0.04,Libero,0,12,Thailand
+THA,Tikamporn Changkeaw,225,Dig,0.16,Libero,0,12,Thailand
+THA,Wanitchaya Luangtonglang,209,Attack,,Outside Hitter,0,12,Thailand
+THA,Wanitchaya Luangtonglang,259,Set,,Outside Hitter,0,12,Thailand
+THA,Wanitchaya Luangtonglang,260,Dig,0.04,Outside Hitter,0,12,Thailand
+THA,Watchareeya Nuanjam,208,Attack,,Middle Blocker,0,12,Thailand
+THA,Watchareeya Nuanjam,155,Set,0.02,Middle Blocker,0,12,Thailand
+THA,Watchareeya Nuanjam,228,Dig,0.14,Middle Blocker,0,12,Thailand
+THA,Watchareeya Nuanjam,199,Block,0.02,Middle Blocker,0,12,Thailand
+THA,Wilavan Apinyapong,210,Attack,,Libero,0,12,Thailand
+THA,Wilavan Apinyapong,118,Set,0.04,Libero,0,12,Thailand
+THA,Wilavan Apinyapong,162,Dig,0.42,Libero,0,12,Thailand
+THA,Wilavan Apinyapong,200,Block,0.02,Libero,0,12,Thailand
+THA,Wipawee Srithong,206,Attack,,Outside Hitter,0,12,Thailand
+THA,Wipawee Srithong,271,Dig,0.02,Outside Hitter,0,12,Thailand
+THA,Wipawee Srithong,242,Block,,Outside Hitter,0,12,Thailand
+TUR,Asli Kalac,226,Attack,,Middle Blocker,0,5,Turkey
+TUR,Asli Kalac,193,Set,0.01,Middle Blocker,0,5,Turkey
+TUR,Asli Kalac,218,Dig,0.18,Middle Blocker,0,5,Turkey
+TUR,Asli Kalac,49,Block,0.25,Middle Blocker,0,5,Turkey
+TUR,Aylin Acar,113,Set,0.04,Libero,0,5,Turkey
+TUR,Aylin Acar,61,Dig,1.31,Libero,0,5,Turkey
+TUR,Buse Unal,220,Attack,,Setter,0,5,Turkey
+TUR,Buse Unal,85,Set,0.06,Setter,0,5,Turkey
+TUR,Buse Unal,268,Dig,0.03,Setter,0,5,Turkey
+TUR,Cansu Özbay,216,Attack,,Setter,0,5,Turkey
+TUR,Cansu Özbay,3,Set,5.16,Setter,0,5,Turkey
+TUR,Cansu Özbay,59,Dig,1.34,Setter,0,5,Turkey
+TUR,Cansu Özbay,48,Block,0.25,Setter,0,5,Turkey
+TUR,Ebrar Karakurt,3,Attack,45.91,Outside Hitter,0,5,Turkey
+TUR,Ebrar Karakurt,77,Set,0.07,Outside Hitter,0,5,Turkey
+TUR,Ebrar Karakurt,44,Dig,1.51,Outside Hitter,0,5,Turkey
+TUR,Ebrar Karakurt,34,Block,0.31,Outside Hitter,0,5,Turkey
+TUR,Ezgi Dilik,221,Attack,,Setter,0,5,Turkey
+TUR,Ezgi Dilik,23,Set,1.78,Setter,0,5,Turkey
+TUR,Ezgi Dilik,152,Dig,0.49,Setter,0,5,Turkey
+TUR,Ezgi Dilik,195,Block,0.03,Setter,0,5,Turkey
+TUR,Fatma Yildirim,227,Attack,,Outside Hitter,0,5,Turkey
+TUR,Fatma Yildirim,194,Set,0.01,Outside Hitter,0,5,Turkey
+TUR,Fatma Yildirim,120,Dig,0.68,Outside Hitter,0,5,Turkey
+TUR,Fatma Yildirim,128,Block,0.09,Outside Hitter,0,5,Turkey
+TUR,Gözde Yilmaz,222,Attack,,Opposite Spiker,0,5,Turkey
+TUR,Gözde Yilmaz,262,Set,,Opposite Spiker,0,5,Turkey
+TUR,Gözde Yilmaz,164,Dig,0.41,Opposite Spiker,0,5,Turkey
+TUR,Gözde Yilmaz,83,Block,0.16,Opposite Spiker,0,5,Turkey
+TUR,Hande Baladin,219,Attack,,Outside Hitter,0,5,Turkey
+TUR,Hande Baladin,261,Set,,Outside Hitter,0,5,Turkey
+TUR,Hande Baladin,113,Dig,0.74,Outside Hitter,0,5,Turkey
+TUR,Hande Baladin,39,Block,0.29,Outside Hitter,0,5,Turkey
+TUR,Kubra Caliskan,218,Attack,,Middle Blocker,0,5,Turkey
+TUR,Kubra Caliskan,191,Set,0.01,Middle Blocker,0,5,Turkey
+TUR,Kubra Caliskan,191,Dig,0.28,Middle Blocker,0,5,Turkey
+TUR,Kubra Caliskan,16,Block,0.47,Middle Blocker,0,5,Turkey
+TUR,Meliha Ismailoglu,7,Attack,43.45,Outside Hitter,0,5,Turkey
+TUR,Meliha Ismailoglu,60,Set,0.09,Outside Hitter,0,5,Turkey
+TUR,Meliha Ismailoglu,21,Dig,1.91,Outside Hitter,0,5,Turkey
+TUR,Meliha Ismailoglu,44,Block,0.26,Outside Hitter,0,5,Turkey
+TUR,Meryem Boz,223,Attack,,Opposite Spiker,1,5,Turkey
+TUR,Meryem Boz,263,Set,,Opposite Spiker,1,5,Turkey
+TUR,Meryem Boz,144,Dig,0.51,Opposite Spiker,1,5,Turkey
+TUR,Meryem Boz,95,Block,0.15,Opposite Spiker,1,5,Turkey
+TUR,Seyma Ercan,217,Attack,,Outside Hitter,0,5,Turkey
+TUR,Seyma Ercan,190,Set,0.01,Outside Hitter,0,5,Turkey
+TUR,Seyma Ercan,102,Dig,0.81,Outside Hitter,0,5,Turkey
+TUR,Seyma Ercan,169,Block,0.04,Outside Hitter,0,5,Turkey
+TUR,Simge Sebnem Akoz,52,Set,0.12,Libero,0,5,Turkey
+TUR,Simge Sebnem Akoz,9,Dig,2.47,Libero,0,5,Turkey
+TUR,Yasemin Guveli,224,Attack,,Middle Blocker,0,5,Turkey
+TUR,Yasemin Guveli,264,Set,,Middle Blocker,0,5,Turkey
+TUR,Yasemin Guveli,244,Dig,0.09,Middle Blocker,0,5,Turkey
+TUR,Yasemin Guveli,170,Block,0.04,Middle Blocker,0,5,Turkey
+TUR,Zehra Gunes,225,Attack,,Middle Blocker,0,5,Turkey
+TUR,Zehra Gunes,192,Set,0.01,Middle Blocker,0,5,Turkey
+TUR,Zehra Gunes,147,Dig,0.5,Middle Blocker,0,5,Turkey
+TUR,Zehra Gunes,8,Block,0.51,Middle Blocker,0,5,Turkey
+USA,Andrea Drews,1,Attack,48.12,Opposite Spiker,0,2,USA
+USA,Andrea Drews,117,Set,0.04,Opposite Spiker,0,2,USA
+USA,Andrea Drews,85,Dig,0.97,Opposite Spiker,0,2,USA
+USA,Andrea Drews,60,Block,0.22,Opposite Spiker,0,2,USA
+USA,Carli Lloyd,230,Attack,,Setter,0,2,USA
+USA,Carli Lloyd,31,Set,0.88,Setter,0,2,USA
+USA,Carli Lloyd,208,Dig,0.21,Setter,0,2,USA
+USA,Carli Lloyd,163,Block,0.05,Setter,0,2,USA
+USA,Chiaka Ogbogu,245,Attack,,Middle Blocker,0,2,USA
+USA,Chiaka Ogbogu,273,Set,,Middle Blocker,0,2,USA
+USA,Chiaka Ogbogu,167,Dig,0.38,Middle Blocker,0,2,USA
+USA,Chiaka Ogbogu,19,Block,0.45,Middle Blocker,0,2,USA
+USA,Dana Rettke,241,Attack,,Middle Blocker,0,2,USA
+USA,Dana Rettke,270,Set,,Middle Blocker,0,2,USA
+USA,Dana Rettke,238,Dig,0.11,Middle Blocker,0,2,USA
+USA,Dana Rettke,63,Block,0.21,Middle Blocker,0,2,USA
+USA,Haleigh Washington,243,Attack,,Middle Blocker,0,2,USA
+USA,Haleigh Washington,272,Set,,Middle Blocker,0,2,USA
+USA,Haleigh Washington,194,Dig,0.27,Middle Blocker,0,2,USA
+USA,Haleigh Washington,18,Block,0.45,Middle Blocker,0,2,USA
+USA,Hannah Tapp,240,Attack,,Middle Blocker,0,2,USA
+USA,Hannah Tapp,269,Set,,Middle Blocker,0,2,USA
+USA,Hannah Tapp,288,Dig,,Middle Blocker,0,2,USA
+USA,Hannah Tapp,146,Block,0.07,Middle Blocker,0,2,USA
+USA,Jordan Larson,235,Attack,,Outside Hitter,1,2,USA
+USA,Jordan Larson,267,Set,,Outside Hitter,1,2,USA
+USA,Jordan Larson,99,Dig,0.82,Outside Hitter,1,2,USA
+USA,Jordan Larson,164,Block,0.05,Outside Hitter,1,2,USA
+USA,Jordan Thompson,236,Attack,,Opposite Spiker,0,2,USA
+USA,Jordan Thompson,201,Set,0.01,Opposite Spiker,0,2,USA
+USA,Jordan Thompson,123,Dig,0.66,Opposite Spiker,0,2,USA
+USA,Jordan Thompson,91,Block,0.15,Opposite Spiker,0,2,USA
+USA,Jordyn Poulter,229,Attack,,Setter,0,2,USA
+USA,Jordyn Poulter,18,Set,2.1,Setter,0,2,USA
+USA,Jordyn Poulter,111,Dig,0.74,Setter,0,2,USA
+USA,Jordyn Poulter,118,Block,0.1,Setter,0,2,USA
+USA,Karsta Lowe,246,Attack,,Opposite Spiker,0,2,USA
+USA,Karsta Lowe,274,Set,,Opposite Spiker,0,2,USA
+USA,Karsta Lowe,258,Dig,0.05,Opposite Spiker,0,2,USA
+USA,Karsta Lowe,165,Block,0.05,Opposite Spiker,0,2,USA
+USA,Kelsey Robinson,244,Attack,,Outside Hitter,0,2,USA
+USA,Kelsey Robinson,79,Set,0.07,Outside Hitter,0,2,USA
+USA,Kelsey Robinson,54,Dig,1.37,Outside Hitter,0,2,USA
+USA,Kelsey Robinson,82,Block,0.16,Outside Hitter,0,2,USA
+USA,Lauren Carlini,232,Attack,,Setter,0,2,USA
+USA,Lauren Carlini,13,Set,2.67,Setter,0,2,USA
+USA,Lauren Carlini,75,Dig,1.04,Setter,0,2,USA
+USA,Lauren Carlini,105,Block,0.12,Setter,0,2,USA
+USA,Lauren Gibbemeyer,233,Attack,,Middle Blocker,0,2,USA
+USA,Lauren Gibbemeyer,266,Set,,Middle Blocker,0,2,USA
+USA,Lauren Gibbemeyer,257,Dig,0.05,Middle Blocker,0,2,USA
+USA,Lauren Gibbemeyer,106,Block,0.12,Middle Blocker,0,2,USA
+USA,Madison Kingdon Rishel,234,Attack,,Outside Hitter,0,2,USA
+USA,Madison Kingdon Rishel,154,Set,0.03,Outside Hitter,0,2,USA
+USA,Madison Kingdon Rishel,142,Dig,0.53,Outside Hitter,0,2,USA
+USA,Madison Kingdon Rishel,132,Block,0.08,Outside Hitter,0,2,USA
+USA,Mary Lake,275,Set,,Libero,0,2,USA
+USA,Mary Lake,129,Dig,0.6,Libero,0,2,USA
+USA,Megan Courtney,62,Set,0.08,Outside Hitter,0,2,USA
+USA,Megan Courtney,15,Dig,2.05,Outside Hitter,0,2,USA
+USA,Micha Hancock,228,Attack,,Setter,0,2,USA
+USA,Micha Hancock,27,Set,1.37,Setter,0,2,USA
+USA,Micha Hancock,160,Dig,0.42,Setter,0,2,USA
+USA,Micha Hancock,162,Block,0.05,Setter,0,2,USA
+USA,Michelle Bartsch-Hackley,238,Attack,,Outside Hitter,0,2,USA
+USA,Michelle Bartsch-Hackley,202,Set,0.01,Outside Hitter,0,2,USA
+USA,Michelle Bartsch-Hackley,81,Dig,0.99,Outside Hitter,0,2,USA
+USA,Michelle Bartsch-Hackley,119,Block,0.1,Outside Hitter,0,2,USA
+USA,Mikaela Foecke,239,Attack,,Outside Hitter,0,2,USA
+USA,Mikaela Foecke,203,Set,0.01,Outside Hitter,0,2,USA
+USA,Mikaela Foecke,86,Dig,0.97,Outside Hitter,0,2,USA
+USA,Mikaela Foecke,173,Block,0.04,Outside Hitter,0,2,USA
+USA,Sarah Wilhite,237,Attack,,Outside Hitter,0,2,USA
+USA,Sarah Wilhite,268,Set,,Outside Hitter,0,2,USA
+USA,Sarah Wilhite,169,Dig,0.36,Outside Hitter,0,2,USA
+USA,Sarah Wilhite,133,Block,0.08,Outside Hitter,0,2,USA
+USA,Simone Lee,242,Attack,,Outside Hitter,0,2,USA
+USA,Simone Lee,271,Set,,Outside Hitter,0,2,USA
+USA,Simone Lee,241,Dig,0.1,Outside Hitter,0,2,USA
+USA,Simone Lee,246,Block,,Outside Hitter,0,2,USA
+USA,Tetori Dixon,231,Attack,,Middle Blocker,0,2,USA
+USA,Tetori Dixon,265,Set,,Middle Blocker,0,2,USA
+USA,Tetori Dixon,230,Dig,0.14,Middle Blocker,0,2,USA
+USA,Tetori Dixon,50,Block,0.25,Middle Blocker,0,2,USA

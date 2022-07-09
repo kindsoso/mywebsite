@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GO | Portfolio</title>
+    <link>https://avery7li.github.io/category/go/</link>
+      <atom:link href="https://avery7li.github.io/category/go/index.xml" rel="self" type="application/rss+xml" />
+    <description>GO</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Zhengdan Li</copyright><lastBuildDate>Thu, 04 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://avery7li.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>GO</title>
+      <link>https://avery7li.github.io/category/go/</link>
+    </image>
+    
+    <item>
+      <title>Global Aid Match System</title>
+      <link>https://avery7li.github.io/project/global-aid-match-system/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://avery7li.github.io/project/global-aid-match-system/</guid>
+      <description>
+
+
+&lt;p&gt;In summer 2019, I participated in the IBM Call for Code competition as a member of the Bank of China team. The competition looked for innovative ideas on disaster relief issues. We were tackling the inefficient relief supply distribution, a problem caused by the lack of transparent information and trust. When a natural disaster happens, information acquisition between two parties that need and provide resources rely on traditional media. There are often information barriers between each other that lack a resource scheduling scheme.&lt;/p&gt;
+&lt;div id=&#34;methods&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;To ensure mutual trust, blockchain was used in our solution as it has a transparent mechanism. Blockchain technology has the benefits of increased transparency in data shared on the network, contributing to enhanced trust among different organizations. During the development process, I used the Go language to implement chaincode, a “smart contract” that handled the demand and supply matching logic under the Hyperledger Fabric framework.&lt;/p&gt;
+&lt;p&gt;Based on blockchain, we built functions such as information release and evaluation systems. In addition, we formed the scheme of a matchmaking system to match the disaster-stricken party with the relief provider. The design also included a feedback mechanism for the participant organizations, and the results would affect the supply distribution priority of the next matchmaking.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;results&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Through the development and research of the Global Aim Match System, the team formed a systematic disaster relief chain solution that would increase transparency and boost the efficiency of disaster assistance. Our project placed among the top five in the Greater China region.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://developer.ibm.com/callforcode/solutions/2019-solutions/&#34;&gt;Call for Code 2019 Global Challenge&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

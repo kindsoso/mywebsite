@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://avery7li.github.io/sitemap.xml
